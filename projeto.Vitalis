@@ -1,1 +1,182 @@
 # Projeto-Vitalis
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vitalis - Saúde e Bem-estar</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Rowdies:wght@300;400&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+    <nav class="navbar">
+
+        <div class="logo">
+            <h1>Vitalis</h1>
+        </div>
+
+        <ul class="menu">
+            <li><a href="#">Início</a></li>
+            <li><a href="#como-funciona">Como Funciona</a></li>
+            <li><a href="#servicos">Serviços</a></li>
+            <li><a href="#profissionais">Para Profissionais</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+
+        <div class="buttons">
+            <a href="#" class="btn-login">Entrar</a>
+            <a href="#" class="btn-cadastro">Criar Conta</a>
+        </div>
+
+    </nav>
+
+</header>
+
+<section class="hero">
+
+    <div class="hero-text">
+
+        <h1>
+            CUIDE DA SUA SAÚDE <br>
+            COM MAIS <span>PRATICIDADE</span>
+        </h1>
+
+        <p>
+            Conectamos você aos melhores profissionais de saúde e bem-estar.
+            Agende consultas, gerencie seu histórico e cuide da sua saúde em um só lugar.
+        </p>
+
+        <div class="hero-buttons">
+            <a href="#" class="btn-primary">Agendar Agora</a>
+            <a href="#" class="btn-secondary">Explorar Serviços</a>
+        </div>
+
+        <div class="infos">
+
+            <div>
+                <h3>Agendamento Rápido</h3>
+                <span>Em poucos cliques</span>
+            </div>
+
+            <div>
+                <h3>Profissionais Qualificados</h3>
+                <span>Verificados e avaliados</span>
+            </div>
+
+            <div>
+                <h3>Histórico Completo</h3>
+                <span>Tudo em um só lugar</span>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section id="beneficios" class="beneficios">
+
+    <h2>Benefícios para todos</h2>
+
+    <p>
+        A Vitalis oferece vantagens tanto para usuários quanto para profissionais de saúde.
+    </p>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>Agendamento rápido</h3>
+            <p>Marque consultas em segundos.</p>
+        </div>
+
+        <div class="card">
+            <h3>Lembretes automáticos</h3>
+            <p>Nunca mais perca uma consulta.</p>
+        </div>
+
+        <div class="card">
+            <h3>Histórico de atendimentos</h3>
+            <p>Acesse todo o seu histórico médico.</p>
+        </div>
+
+        <div class="card">
+            <h3>Gestão de agenda</h3>
+            <p>Controle total sobre seus horários.</p>
+        </div>
+
+        <div class="card">
+            <h3>Organização de atendimentos</h3>
+            <p>Gerencie seus pacientes facilmente.</p>
+        </div>
+
+        <div class="card">
+            <h3>Mais visibilidade</h3>
+            <p>Alcance mais pacientes.</p>
+        </div>
+
+    </div>
+
+</section>
+
+<footer id="contato">
+
+    <div class="footer-logo">
+
+        <h2>Vitalis</h2>
+
+        <p>
+            Transformando a forma como você cuida da sua saúde e bem-estar.
+        </p>
+
+    </div>
+
+    <div>
+
+        <h3>Links úteis</h3>
+
+        <ul>
+            <li>Início</li>
+            <li>Como Funciona</li>
+            <li>Serviços</li>
+            <li>Para Profissionais</li>
+        </ul>
+
+    </div>
+
+    <div>
+
+        <h3>Suporte</h3>
+
+        <ul>
+            <li>Central de Ajuda</li>
+            <li>FAQ</li>
+            <li>Termos de Uso</li>
+            <li>Política de Privacidade</li>
+        </ul>
+
+    </div>
+
+    <div>
+
+        <h3>Contato</h3>
+
+        <p>vitalis.contato01@gmail.com</p>
+        <p>(11) 9999-9999</p>
+        <p>São Paulo - SP - Brasil</p>
+
+    </div>
+
+</footer>
+
+<div class="copyright">
+    © 2026 Vitalis. Todos os direitos reservados.
+</div>
+
+</body>
+</html>
