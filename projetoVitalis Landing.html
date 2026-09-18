@@ -1,182 +1,350 @@
-# Projeto-Vitalis
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vitalis - Saúde e Bem-estar</title>
-
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Rowdies:wght@300;400&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
-
-    <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vitalis - Cuide da sua saúde com mais praticidade</title>
+<link rel="stylesheet" href="style.css">
 </head>
-
 <body>
 
-<header>
+<!-- HEADER -->
+<header class="header">
+  <div class="container header-inner">
+    <a href="#inicio" class="logo">
+      <span class="logo-icon">✚</span>
+      <span class="logo-text">VITALIS</span>
+    </a>
 
-    <nav class="navbar">
-
-        <div class="logo">
-            <h1>Vitalis</h1>
-        </div>
-
-        <ul class="menu">
-            <li><a href="#">Início</a></li>
-            <li><a href="#como-funciona">Como Funciona</a></li>
-            <li><a href="#servicos">Serviços</a></li>
-            <li><a href="#profissionais">Para Profissionais</a></li>
-            <li><a href="#contato">Contato</a></li>
-        </ul>
-
-        <div class="buttons">
-            <a href="#" class="btn-login">Entrar</a>
-            <a href="#" class="btn-cadastro">Criar Conta</a>
-        </div>
-
+    <nav class="nav">
+      <a href="#inicio" class="nav-link">Início</a>
+      <a href="#como-funciona" class="nav-link">Como funciona</a>
+      <a href="#servicos" class="nav-link">Serviços</a>
+      <a href="#profissionais" class="nav-link">Para profissionais</a>
+      <a href="#contato" class="nav-link">Contato</a>
     </nav>
 
+    <div class="header-actions">
+      <a href="login.html" class="btn btn-outline btn-small">Entrar</a>
+      <a href="cadastro.html" class="btn btn-primary btn-small">Criar conta</a>
+    </div>
+
+    <button class="menu-toggle" id="menuToggle" aria-label="Abrir menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
 </header>
 
-<section class="hero">
-
-    <div class="hero-text">
-
-        <h1>
-            CUIDE DA SUA SAÚDE <br>
-            COM MAIS <span>PRATICIDADE</span>
-        </h1>
-
-        <p>
-            Conectamos você aos melhores profissionais de saúde e bem-estar.
-            Agende consultas, gerencie seu histórico e cuide da sua saúde em um só lugar.
-        </p>
-
-        <div class="hero-buttons">
-            <a href="#" class="btn-primary">Agendar Agora</a>
-            <a href="#" class="btn-secondary">Explorar Serviços</a>
-        </div>
-
-        <div class="infos">
-
-            <div>
-                <h3>Agendamento Rápido</h3>
-                <span>Em poucos cliques</span>
-            </div>
-
-            <div>
-                <h3>Profissionais Qualificados</h3>
-                <span>Verificados e avaliados</span>
-            </div>
-
-            <div>
-                <h3>Histórico Completo</h3>
-                <span>Tudo em um só lugar</span>
-            </div>
-
-        </div>
-
+<!-- HERO -->
+<section id="inicio" class="hero">
+  <div class="container hero-inner">
+    <div class="hero-copy">
+      <h1>Cuide da sua saúde com mais <span class="accent">praticidade</span></h1>
+      <p>Conectamos você aos melhores profissionais de saúde e bem-estar. Agende consultas, gerencie seu histórico e cuide da sua saúde em um só lugar.</p>
+      <div class="hero-buttons">
+        <a href="#servicos" class="btn btn-primary">
+          <svg viewBox="0 0 24 24" class="btn-icon"><path d="M7 2v3M17 2v3M3 9h18M5 5h14a1 1 0 011 1v13a1 1 0 01-1 1H5a1 1 0 01-1-1V6a1 1 0 011-1z"/></svg>
+          Agendar agora
+        </a>
+        <a href="#servicos" class="btn btn-ghost">
+          <svg viewBox="0 0 24 24" class="btn-icon"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+          Explorar serviços
+        </a>
+      </div>
     </div>
 
+    <div class="hero-card">
+      <div class="hero-feature">
+        <span class="check-dot check-green">✓</span>
+        <div>
+          <strong>Agendamento rápido</strong>
+          <p>Em poucos cliques</p>
+        </div>
+      </div>
+      <div class="hero-feature">
+        <span class="check-dot check-teal">✓</span>
+        <div>
+          <strong>Profissionais qualificados</strong>
+          <p>Verificados e avaliados</p>
+        </div>
+      </div>
+      <div class="hero-feature">
+        <span class="check-dot check-yellow">✓</span>
+        <div>
+          <strong>Histórico completo</strong>
+          <p>Tudo em um só lugar</p>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
-<section id="beneficios" class="beneficios">
+<!-- COMO FUNCIONA -->
+<section id="como-funciona" class="section">
+  <div class="container">
+    <h2 class="section-title">Como funciona</h2>
+    <p class="section-subtitle">Cuidar da sua saúde nunca foi tão simples. Veja como a Vitalis facilita seu dia a dia</p>
 
-    <h2>Benefícios para todos</h2>
-
-    <p>
-        A Vitalis oferece vantagens tanto para usuários quanto para profissionais de saúde.
-    </p>
-
-    <div class="cards">
-
-        <div class="card">
-            <h3>Agendamento rápido</h3>
-            <p>Marque consultas em segundos.</p>
+    <div class="steps">
+      <div class="step">
+        <div class="step-icon step-green">
+          <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+          <span class="step-num">1</span>
         </div>
-
-        <div class="card">
-            <h3>Lembretes automáticos</h3>
-            <p>Nunca mais perca uma consulta.</p>
+        <h3>Busque serviços</h3>
+        <p>Encontre o serviço que você precisa por especialidade ou localização</p>
+      </div>
+      <div class="step">
+        <div class="step-icon step-blue">
+          <svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21v-1a8 8 0 0116 0v1"/></svg>
+          <span class="step-num">2</span>
         </div>
-
-        <div class="card">
-            <h3>Histórico de atendimentos</h3>
-            <p>Acesse todo o seu histórico médico.</p>
+        <h3>Escolha seu plano</h3>
+        <p>Veja planos e escolha o melhor para suas necessidades</p>
+      </div>
+      <div class="step">
+        <div class="step-icon step-yellow">
+          <svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+          <span class="step-num">3</span>
         </div>
-
-        <div class="card">
-            <h3>Gestão de agenda</h3>
-            <p>Controle total sobre seus horários.</p>
+        <h3>Agende facilmente</h3>
+        <p>Marque sua consulta com poucos cliques e receba confirmação instantânea</p>
+      </div>
+      <div class="step">
+        <div class="step-icon step-teal">
+          <svg viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg>
+          <span class="step-num">4</span>
         </div>
-
-        <div class="card">
-            <h3>Organização de atendimentos</h3>
-            <p>Gerencie seus pacientes facilmente.</p>
-        </div>
-
-        <div class="card">
-            <h3>Mais visibilidade</h3>
-            <p>Alcance mais pacientes.</p>
-        </div>
-
+        <h3>Gerencie tudo</h3>
+        <p>Acompanhe seus agendamentos, histórico e lembretes em um só lugar</p>
+      </div>
     </div>
-
+  </div>
 </section>
 
-<footer id="contato">
+<!-- SERVIÇOS -->
+<section id="servicos" class="section section-alt">
+  <div class="container">
+    <h2 class="section-title">Serviços disponíveis</h2>
+    <p class="section-subtitle">Uma ampla variedade de serviços de saúde e bem-estar ao seu alcance</p>
 
-    <div class="footer-logo">
-
-        <h2>Vitalis</h2>
-
-        <p>
-            Transformando a forma como você cuida da sua saúde e bem-estar.
-        </p>
-
+    <div class="cards-grid" id="servicosGrid">
+      <button class="service-card" data-service="Consultas médicas">
+        <span class="service-icon icon-green">🩺</span>
+        <h3>Consultas médicas</h3>
+        <p>Diversas especialidades médicas disponíveis</p>
+      </button>
+      <button class="service-card" data-service="Psicologia">
+        <span class="service-icon icon-blue">🧠</span>
+        <h3>Psicologia</h3>
+        <p>Atendimento psicológico e terapias</p>
+      </button>
+      <button class="service-card" data-service="Fisioterapia">
+        <span class="service-icon icon-yellow">📈</span>
+        <h3>Fisioterapia</h3>
+        <p>Reabilitação e tratamentos especializados</p>
+      </button>
+      <button class="service-card" data-service="Atividades físicas">
+        <span class="service-icon icon-green">🤸</span>
+        <h3>Atividades físicas</h3>
+        <p>Personal trainers e aulas especializadas</p>
+      </button>
+      <button class="service-card" data-service="Estética">
+        <span class="service-icon icon-blue">💆</span>
+        <h3>Estética</h3>
+        <p>Tratamentos estéticos e bem-estar</p>
+      </button>
+      <button class="service-card" data-service="Todos os serviços">
+        <span class="service-icon icon-yellow">➜</span>
+        <h3>E muito mais</h3>
+        <p>Explore todos os serviços disponíveis</p>
+      </button>
     </div>
 
-    <div>
+    <div class="center">
+      <a href="cadastro.html" class="btn btn-primary">Ver todos os serviços →</a>
+    </div>
 
-        <h3>Links úteis</h3>
+    <!-- BENEFÍCIOS -->
+    <h2 class="section-title benefits-title">Benefícios para todos</h2>
+    <p class="section-subtitle">A Vitalis oferece vantagens tanto para usuários quanto para profissionais de saúde</p>
 
-        <ul>
-            <li>Início</li>
-            <li>Como Funciona</li>
-            <li>Serviços</li>
-            <li>Para Profissionais</li>
+    <div class="benefits-grid">
+      <div class="benefits-col">
+        <span class="pill pill-green">Para usuários</span>
+        <ul class="benefits-list">
+          <li><span class="mini-icon mini-green">⏰</span><div><strong>Agendamento rápido</strong><p>Marque consultas em segundos</p></div></li>
+          <li><span class="mini-icon mini-green">🔔</span><div><strong>Lembretes automáticos</strong><p>Nunca mais perca uma consulta</p></div></li>
+          <li><span class="mini-icon mini-green">📋</span><div><strong>Histórico de atendimentos</strong><p>Acesse todo seu histórico médico</p></div></li>
         </ul>
-
-    </div>
-
-    <div>
-
-        <h3>Suporte</h3>
-
-        <ul>
-            <li>Central de Ajuda</li>
-            <li>FAQ</li>
-            <li>Termos de Uso</li>
-            <li>Política de Privacidade</li>
+      </div>
+      <div class="benefits-col">
+        <span class="pill pill-blue">Para profissionais</span>
+        <ul class="benefits-list">
+          <li><span class="mini-icon mini-blue">✅</span><div><strong>Gestão de agenda</strong><p>Controle total sobre seus horários</p></div></li>
+          <li><span class="mini-icon mini-blue">📊</span><div><strong>Mais visibilidade</strong><p>Alcance mais pacientes</p></div></li>
+          <li><span class="mini-icon mini-blue">👥</span><div><strong>Organização de atendimentos</strong><p>Gerencie seus pacientes facilmente</p></div></li>
         </ul>
+      </div>
+    </div>
+  </div>
+</section>
 
+<!-- PARA PROFISSIONAIS -->
+<section id="profissionais" class="section-pro">
+  <div class="container pro-inner">
+    <div class="pro-copy">
+      <span class="tag tag-yellow">Para profissionais</span>
+      <h2>Potencialize sua carreira na área da saúde</h2>
+      <p>Junte-se a centenas de profissionais que já estão transformando a forma como atendem seus pacientes. Com a Vitalis, você tem todas as ferramentas necessárias para crescer e se destacar no mercado.</p>
+      <ul class="pro-checklist">
+        <li><span class="check-dot check-green small">✓</span> Controle, agenda, pacientes e atendimentos em um só lugar</li>
+        <li><span class="check-dot check-green small">✓</span> Seja encontrado por novos pacientes na sua região</li>
+        <li><span class="check-dot check-yellow small">✓</span> Plataforma intuitiva e suporte dedicado</li>
+      </ul>
+      <a href="cadastro.html?perfil=profissional" class="btn btn-primary">Cadastre-se como profissional</a>
     </div>
 
-    <div>
+    <div class="pro-cards">
+      <div class="pro-card">
+        <span class="pro-card-icon icon-green">💼</span>
+        <div><strong>Gestão profissional</strong><p>Ferramentas completas para organizar sua prática e otimizar seu tempo</p></div>
+      </div>
+      <div class="pro-card">
+        <span class="pro-card-icon icon-blue">📈</span>
+        <div><strong>Crescimento constante</strong><p>Aumente sua base de pacientes e construa sua reputação online</p></div>
+      </div>
+      <div class="pro-card">
+        <span class="pro-card-icon icon-yellow">🔒</span>
+        <div><strong>Segurança garantida</strong><p>Proteção total dos dados em conformidade com a LGPD</p></div>
+      </div>
+    </div>
+  </div>
+</section>
 
-        <h3>Contato</h3>
+<!-- DIFERENCIAIS -->
+<section class="section">
+  <div class="container">
+    <h2 class="section-title">Nossos diferenciais</h2>
+    <p class="section-subtitle">O que torna a Vitalis a melhor escolha para cuidar da sua saúde</p>
 
-        <p>vitalis.contato01@gmail.com</p>
-        <p>(11) 9999-9999</p>
-        <p>São Paulo - SP - Brasil</p>
+    <div class="diff-grid">
+      <div class="diff">
+        <div class="diff-icon diff-green">📚<span class="badge badge-green">1</span></div>
+        <h3>Plataforma integrada</h3>
+        <p>Tudo o que você precisa em um único lugar, sem complicação</p>
+      </div>
+      <div class="diff">
+        <div class="diff-icon diff-blue">⚡<span class="badge badge-blue">2</span></div>
+        <h3>Interface intuitiva</h3>
+        <p>Design pensado para facilitar sua experiência</p>
+      </div>
+      <div class="diff">
+        <div class="diff-icon diff-yellow">🔒<span class="badge badge-yellow">3</span></div>
+        <h3>Segurança de dados</h3>
+        <p>Conformidade total com a LGPD e proteção de informações</p>
+      </div>
+      <div class="diff">
+        <div class="diff-icon diff-green">⭐<span class="badge badge-green">4</span></div>
+        <h3>Recomendações personalizadas</h3>
+        <p>Sugestões baseadas no seu perfil e histórico</p>
+      </div>
+    </div>
+  </div>
+</section>
 
+<!-- DEPOIMENTOS -->
+<section class="section section-alt">
+  <div class="container">
+    <h2 class="section-title">O que dizem sobre nós</h2>
+    <p class="section-subtitle">Veja a experiência de quem já usa a Vitalis</p>
+
+    <div class="testimonials">
+      <div class="testimonial">
+        <div class="stars">★★★★★</div>
+        <p>"A Vitalis transformou a forma como cuido da minha saúde. Consigo agendar consultas facilmente e tenho todo meu histórico organizado."</p>
+        <div class="testimonial-author">
+          <span class="avatar">🐱</span>
+          <div><strong>Dra. Maria Silva</strong><span>Usuária</span></div>
+        </div>
+      </div>
+      <div class="testimonial">
+        <div class="stars">★★★★★</div>
+        <p>"Como profissional, a plataforma me ajudou a organizar minha agenda e alcançar mais pacientes. Excelente ferramenta!"</p>
+        <div class="testimonial-author">
+          <span class="avatar">🐨</span>
+          <div><strong>Dr. João Santos</strong><span>Psicólogo</span></div>
+        </div>
+      </div>
+      <div class="testimonial">
+        <div class="stars">★★★★★</div>
+        <p>"Praticidade e segurança em um só lugar. Os lembretes automáticos nunca mais me deixaram perder uma consulta."</p>
+        <div class="testimonial-author">
+          <span class="avatar">🦊</span>
+          <div><strong>Dr. Levi Bisneto</strong><span>Usuário</span></div>
+        </div>
+      </div>
+      <div class="testimonial">
+        <div class="stars">★★★★★</div>
+        <p>"A Vitalis me deu mais visibilidade e facilitou a gestão dos meus atendimentos. Recomendo a todos os profissionais!"</p>
+        <div class="testimonial-author">
+          <span class="avatar">🐰</span>
+          <div><strong>Dra. Carla Menezes</strong><span>Fisioterapeuta</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta">
+  <div class="container">
+    <h2>Comece a cuidar da sua saúde hoje</h2>
+    <p>Junte-se a milhares de pessoas que já transformaram a forma de como cuidam da saúde</p>
+    <a href="cadastro.html" class="btn btn-cta">criar conta gratuita →</a>
+    <p class="cta-note">Sem cartão de crédito · Configure em 2 minutos</p>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer" id="contato">
+  <div class="container footer-grid">
+    <div class="footer-brand">
+      <span class="logo-text light">Vitalis</span>
+      <p>Transformando a forma como você cuida da sua saúde e bem-estar.</p>
+      <div class="socials">
+        <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Facebook">f</a>
+        <a href="https://x.com" target="_blank" rel="noopener" aria-label="X">𝕏</a>
+        <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Instagram">◎</a>
+      </div>
     </div>
 
+    <div class="footer-col">
+      <h4>Links úteis</h4>
+      <a href="#inicio">Início</a>
+      <a href="#como-funciona">Como funciona</a>
+      <a href="#servicos">Serviços</a>
+      <a href="#profissionais">Para profissionais</a>
+    </div>
+
+    <div class="footer-col">
+      <h4>Suporte</h4>
+      <a href="ajuda.html">Central de ajuda</a>
+      <a href="ajuda.html#faq">FAQ</a>
+      <a href="termos.html">Termos de uso</a>
+      <a href="privacidade.html">Política de privacidade</a>
+    </div>
+
+    <div class="footer-col">
+      <h4>Contato</h4>
+      <a href="mailto:vitalis.contato01@gmail.com">✉ vitalis.contato01@gmail.com</a>
+      <a href="tel:+551199999999">☎ (11) 9999-9999</a>
+      <span>📍 São Paulo, SP - Brasil</span>
+    </div>
+  </div>
+  <div class="footer-bottom">© 2026 Vitalis. Todos os direitos reservados.</div>
 </footer>
 
-<div class="copyright">
-    © 2026 Vitalis. Todos os direitos reservados.
-</div>
-
+<script src="script.js"></script>
 </body>
 </html>
