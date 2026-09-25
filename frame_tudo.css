@@ -1,0 +1,842 @@
+.frame-tudo,
+.frame-tudo * {
+  box-sizing: border-box;
+}
+.frame-tudo {
+  background: #ffffff;
+  height: 1518px;
+  position: relative;
+  overflow: hidden;
+}
+.diversas-especialidades-m-dicas-dispon-veis-para-atender-suas-necessidades {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 192px;
+  width: 429px;
+}
+.atendimento-psicol-gico-terapias-e-acompanhamento-emocional {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 599px;
+  top: 192px;
+  width: 410px;
+}
+.reabilita-o-tratamentos-especializados-e-preven-o-de-les-es {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 1118px;
+  top: 192px;
+  width: 451px;
+}
+.personal-trainers-aulas-especializadas-e-programas-personalizados {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 556px;
+  width: 334px;
+}
+.tratamentos-est-ticos-faciais-e-corporais-bem-estar-e-beleza {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 595px;
+  top: 556px;
+}
+.especialistas-em-sa-de-cardiovascular-e-preven-o-de-doen-as-do-cora-o {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 1118px;
+  top: 556px;
+  width: 439px;
+}
+.cuidados-especializados-para-sa-de-infantil-e-desenvolvimento {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 941px;
+}
+.cuidados-com-a-saude-dos-olhos-e-corre-ao-visual {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 595px;
+  top: 941px;
+}
+.tratamento-de-les-es-sseas-articulares-e-musculares {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 1118px;
+  top: 941px;
+  width: 437px;
+}
+.planejamento-alimentar-e-acompanhamento-nutricional-personalizado {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 1339px;
+  width: 411px;
+}
+.diagn-stico-e-tratamento-de-doen-as-do-sistema-nervoso {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 595px;
+  top: 1339px;
+}
+.aconselhamento-e-terapia-para-relacionamentos {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 1125px;
+  top: 1335px;
+}
+.medical-information {
+  height: auto;
+  position: absolute;
+  left: 89px;
+  top: 62px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.neurology {
+  height: auto;
+  position: absolute;
+  left: 609px;
+  top: 63px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.cardiology {
+  height: auto;
+  position: absolute;
+  left: 1132px;
+  top: 426px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.exercise {
+  height: auto;
+  position: absolute;
+  left: 89px;
+  top: 426px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.spa {
+  height: auto;
+  position: absolute;
+  left: 609px;
+  top: 426px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.ecg {
+  height: auto;
+  position: absolute;
+  left: 1132px;
+  top: 62px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.child-care {
+  height: auto;
+  position: absolute;
+  left: 90px;
+  top: 820px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.symptoms {
+  height: auto;
+  position: absolute;
+  left: 609px;
+  top: 820px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.humerus {
+  height: auto;
+  position: absolute;
+  left: 1132px;
+  top: 820px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.pill {
+  height: auto;
+  position: absolute;
+  left: 90px;
+  top: 1207px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.network-intelligence {
+  height: auto;
+  position: absolute;
+  left: 609px;
+  top: 1207px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.person-heart {
+  height: auto;
+  position: absolute;
+  left: 1132px;
+  top: 1207px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.rectangle-300 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 40px;
+  top: 18px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-301 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 563px;
+  top: 18px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-270 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 1086px;
+  top: 18px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-271 {
+  background: rgba(7, 187, 180, 0.2);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 76px;
+  top: 49px;
+}
+.rectangle-272 {
+  background: rgba(0, 198, 105, 0.23);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 594px;
+  top: 49px;
+}
+.rectangle-302 {
+  background: rgba(255, 222, 92, 0.52);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 1117px;
+  top: 49px;
+}
+.rectangle-303 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 42px;
+  top: 381px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-275 {
+  background: rgba(7, 187, 180, 0.2);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 76px;
+  top: 413px;
+}
+.rectangle-268 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 563px;
+  top: 381px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.est-tica {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 599px;
+  top: 511px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.rectangle-269 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 1090px;
+  top: 381px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-273 {
+  background: rgba(0, 198, 105, 0.23);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 594px;
+  top: 413px;
+}
+.rectangle-274 {
+  background: rgba(255, 222, 92, 0.52);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 1117px;
+  top: 413px;
+}
+.rectangle-281 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 42px;
+  top: 774px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-294 {
+  background: rgba(7, 187, 180, 0.2);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 76px;
+  top: 806px;
+}
+.rectangle-282 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 568px;
+  top: 774px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-283 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 1090px;
+  top: 774px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-284 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 42px;
+  top: 1167px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-285 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 569px;
+  top: 1167px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.neurologia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 599px;
+  top: 1288px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.rectangle-286 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 1092px;
+  top: 1167px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-295 {
+  background: rgba(0, 198, 105, 0.23);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 594px;
+  top: 806px;
+}
+.rectangle-296 {
+  background: rgba(255, 222, 92, 0.52);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 1117px;
+  top: 806px;
+}
+.rectangle-297 {
+  background: rgba(0, 198, 105, 0.23);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 594px;
+  top: 1195px;
+}
+.rectangle-298 {
+  background: rgba(7, 187, 180, 0.2);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 76px;
+  top: 1195px;
+}
+.rectangle-299 {
+  background: rgba(255, 222, 92, 0.56);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 1117px;
+  top: 1195px;
+}
+.consultas-m-dicas {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 77px;
+  top: 156px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.psicologia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 599px;
+  top: 156px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.fisioterapia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1121px;
+  top: 156px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.atividades-f-sicas {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 76px;
+  top: 511px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.cardiologia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1121px;
+  top: 511px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.pediatria {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 79px;
+  top: 894px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.oftalmologia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 599px;
+  top: 894px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.ortopedia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1121px;
+  top: 894px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.nutri-o {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 79px;
+  top: 1288px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.terapia-de-casal {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1121px;
+  top: 1288px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+._158-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 336px;
+  top: 49px;
+}
+._67-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1379px;
+  top: 49px;
+}
+._89-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 860px;
+  top: 49px;
+}
+._93-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 336px;
+  top: 413px;
+}
+._78-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 854px;
+  top: 413px;
+}
+._45-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1379px;
+  top: 413px;
+}
+._56-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 337px;
+  top: 810px;
+}
+._38-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 858px;
+  top: 810px;
+}
+._62-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1381px;
+  top: 810px;
+}
+._71-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 337px;
+  top: 1199px;
+  width: 163px;
+  height: 30px;
+}
+._46-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 858px;
+  top: 1199px;
+  width: 163px;
+  height: 30px;
+}
+._33-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1386px;
+  top: 1199px;
+}
+.component-197 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 72px;
+  top: 260px;
+}
+.rectangle-276 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #0cbc8c;
+  border-width: 3px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.agendar-agora {
+  color: #0cbc8c;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 33.26%;
+  left: 23.65%;
+  width: 43.09%;
+  bottom: 20%;
+  top: 20%;
+  height: 60%;
+  -webkit-text-stroke: 0.5px #0cbc8c;
+}
+.component-186 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 71px;
+  top: 625px;
+}
+.component-187 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 73px;
+  top: 1017px;
+}
+.component-188 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 71px;
+  top: 1406px;
+}
+.component-189 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 590px;
+  top: 1406px;
+}
+.component-190 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 1117px;
+  top: 1017px;
+}
+.component-191 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 1118px;
+  top: 1406px;
+}
+.component-192 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 590px;
+  top: 1017px;
+}
+.component-193 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 590px;
+  top: 625px;
+}
+.component-194 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 1117px;
+  top: 625px;
+}
+.component-184 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 590px;
+  top: 260px;
+}
+.component-185 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 1118px;
+  top: 260px;
+}
