@@ -1,0 +1,375 @@
+.op-es-bem-estar,
+.op-es-bem-estar * {
+  box-sizing: border-box;
+}
+.op-es-bem-estar {
+  background: #ffffff;
+  height: 1499px;
+  position: relative;
+  overflow: hidden;
+}
+.atendimento-psicol-gico-terapias-e-acompanhamento-emocional {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 590px;
+  top: 234px;
+  width: 410px;
+}
+.reabilita-o-tratamentos-especializados-e-preven-o-de-les-es {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 1109px;
+  top: 234px;
+  width: 451px;
+}
+.personal-trainers-aulas-especializadas-e-programas-personalizados {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 69px;
+  top: 231px;
+  width: 334px;
+}
+.tratamentos-est-ticos-faciais-e-corporais-bem-estar-e-beleza {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 61px;
+  top: 593px;
+}
+.planejamento-alimentar-e-acompanhamento-nutricional-personalizado {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 592px;
+  top: 590px;
+  width: 411px;
+}
+.neurology {
+  height: auto;
+  position: absolute;
+  left: 600px;
+  top: 105px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.exercise {
+  height: auto;
+  position: absolute;
+  left: 78px;
+  top: 101px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.spa {
+  height: auto;
+  position: absolute;
+  left: 75px;
+  top: 463px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.ecg {
+  height: auto;
+  position: absolute;
+  left: 1123px;
+  top: 104px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.pill {
+  height: auto;
+  position: absolute;
+  left: 602px;
+  top: 458px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.rectangle-329 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 554px;
+  top: 60px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-330 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 1077px;
+  top: 60px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-332 {
+  background: rgba(0, 198, 105, 0.23);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 585px;
+  top: 91px;
+}
+.rectangle-333 {
+  background: rgba(255, 222, 92, 0.52);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 1108px;
+  top: 91px;
+}
+.rectangle-334 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 31px;
+  top: 56px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-335 {
+  background: rgba(7, 187, 180, 0.2);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 65px;
+  top: 88px;
+}
+.rectangle-336 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 29px;
+  top: 418px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.est-tica {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 65px;
+  top: 548px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.rectangle-338 {
+  background: rgba(0, 198, 105, 0.23);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 60px;
+  top: 450px;
+}
+.rectangle-344 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 554px;
+  top: 418px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-350 {
+  background: rgba(7, 187, 180, 0.2);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 588px;
+  top: 446px;
+}
+.psicologia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 590px;
+  top: 198px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.fisioterapia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1112px;
+  top: 198px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.atividades-f-sicas {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 65px;
+  top: 186px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.nutri-o {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 591px;
+  top: 539px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+._67-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1370px;
+  top: 91px;
+}
+._89-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 851px;
+  top: 91px;
+}
+._93-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 325px;
+  top: 88px;
+}
+._78-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 320px;
+  top: 450px;
+}
+._71-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 849px;
+  top: 450px;
+  width: 163px;
+  height: 30px;
+}
+.component-211 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 60px;
+  top: 300px;
+}
+.rectangle-276 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #0cbc8c;
+  border-width: 3px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.agendar-agora {
+  color: #0cbc8c;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 33.26%;
+  left: 23.65%;
+  width: 43.09%;
+  bottom: 20%;
+  top: 20%;
+  height: 60%;
+  -webkit-text-stroke: 0.5px #0cbc8c;
+}
+.component-213 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 583px;
+  top: 657px;
+}
+.component-218 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 56px;
+  top: 662px;
+}
+.component-220 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 581px;
+  top: 302px;
+}
+.component-221 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 1109px;
+  top: 302px;
+}
