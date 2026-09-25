@@ -1,0 +1,235 @@
+.pix,
+.pix * {
+  box-sizing: border-box;
+}
+.pix {
+  background: #ffffff;
+  border-radius: 28px;
+  height: 1091px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-200 {
+  background: #ffffff;
+  border-radius: 28px;
+  width: 924px;
+  height: 1091px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 46.4px 8px rgba(0, 0, 0, 0.25);
+}
+.component-80 {
+  width: 375px;
+  height: 130px;
+  position: absolute;
+  left: 488px;
+  top: 143px;
+}
+.rectangle-180 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #4d4c52;
+  border-width: 2px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.component-81 {
+  width: 384px;
+  height: 130px;
+  position: absolute;
+  left: 47px;
+  top: 143px;
+}
+.m-todo-de-pagamento {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 47px;
+  top: 53px;
+  width: 532px;
+  height: 64px;
+  -webkit-text-stroke: 1px #000000;
+}
+.cart-o-de-cr-dito {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 26.5px;
+  font-weight: 400;
+  position: absolute;
+  left: 122px;
+  top: 175px;
+  width: 366px;
+  height: 48px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.pix2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 26.5px;
+  font-weight: 400;
+  position: absolute;
+  left: 574px;
+  top: 175px;
+  width: 366px;
+  height: 48px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.d-bito-ou-cr-dito {
+  color: rgba(0, 0, 0, 0.64);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 123px;
+  top: 208px;
+  width: 239px;
+  height: 19px;
+}
+.aprova-o-instantanea {
+  color: rgba(0, 0, 0, 0.64);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 574px;
+  top: 208px;
+  width: 344px;
+  height: 19px;
+}
+.rectangle-207 {
+  background: var(
+    --mais-clara,
+    linear-gradient(90deg, rgba(13, 183, 133, 1) 0%, rgba(4, 182, 207, 1) 100%)
+  );
+  border-radius: 12px;
+  width: 816px;
+  height: 79px;
+  position: absolute;
+  left: 54px;
+  top: 891px;
+}
+.j-fiz-o-pagamento {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 304px;
+  top: 907px;
+  width: 366px;
+  height: 48px;
+  -webkit-text-stroke: 0.5px #ffffff;
+}
+.pagamento-100-seguro-e-criptografado {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 21.5px;
+  font-weight: 400;
+  opacity: 0.82;
+  position: absolute;
+  left: 120px;
+  top: 999px;
+  width: 487px;
+  height: 36px;
+}
+.add-card {
+  height: auto;
+  position: absolute;
+  left: 70px;
+  top: 176px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.mobile-2 {
+  height: auto;
+  position: absolute;
+  left: 513px;
+  top: 186px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.lock {
+  opacity: 0.7;
+  height: auto;
+  position: absolute;
+  left: 84px;
+  top: 996px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.rectangle-208 {
+  background: #d9d9d9;
+  border-radius: 12px;
+  width: 816px;
+  height: 490px;
+  position: absolute;
+  left: 53px;
+  top: 301px;
+}
+.rectangle-209 {
+  background: #ffffff;
+  border-radius: 17px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.54);
+  border-width: 1px;
+  width: 338px;
+  height: 304px;
+  position: absolute;
+  left: 286px;
+  top: 346px;
+}
+.qr-code-pix {
+  color: rgba(0, 0, 0, 0.58);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 388.08px;
+  top: 484px;
+  width: 153.6px;
+  height: 52px;
+  transform-origin: 0 0;
+  transform: rotate(0.083deg) scale(1, 1);
+}
+.rectangle-210 {
+  background: #ffffff;
+  border-radius: 18px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.58);
+  border-width: 1px;
+  width: 693px;
+  height: 110px;
+  position: absolute;
+  left: 116px;
+  top: 662px;
+}
+.c-digo-pix-copia-e-cola-00020126580014-br-gov-bcb-pix-01365-ys-1-acw-6-mp-452040000530398654040-005802-br {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 210px;
+  top: 676px;
+  width: 520px;
+  height: 52px;
+}
+
