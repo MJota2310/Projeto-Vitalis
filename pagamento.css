@@ -1,0 +1,742 @@
+.frame-pagamento,
+.frame-pagamento * {
+  box-sizing: border-box;
+}
+.frame-pagamento {
+  background: #ffffff;
+  height: 1575px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-190 {
+  background: #ffffff;
+  border-radius: 28px;
+  width: 924px;
+  height: 1009px;
+  position: absolute;
+  left: 253px;
+  top: 420px;
+  box-shadow: 0px 4px 46.4px 8px rgba(0, 0, 0, 0.25);
+}
+.component-86 {
+  width: 384px;
+  height: 130px;
+  position: absolute;
+  left: 313px;
+  top: 539px;
+}
+.rectangle-180 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #4d4c52;
+  border-width: 2px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.component-87 {
+  width: 384px;
+  height: 130px;
+  position: absolute;
+  left: 738px;
+  top: 539px;
+}
+.component-88 {
+  width: 812px;
+  height: 79px;
+  position: absolute;
+  left: 310px;
+  top: 772px;
+}
+.component-89 {
+  width: 812px;
+  height: 79px;
+  position: absolute;
+  left: 310px;
+  top: 909px;
+}
+.component-90 {
+  width: 384px;
+  height: 79px;
+  position: absolute;
+  left: 310px;
+  top: 1067px;
+}
+.component-91 {
+  width: 384px;
+  height: 79px;
+  position: absolute;
+  left: 738px;
+  top: 1067px;
+}
+.finalizar-pagamento {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 44px;
+  font-weight: 400;
+  position: absolute;
+  left: 267px;
+  top: 225px;
+  width: 632px;
+  height: 88px;
+  -webkit-text-stroke: 1px #000000;
+}
+.complete-seu-pagamento-para-confirmar-seu-agendamento {
+  color: rgba(0, 0, 0, 0.58);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 266px;
+  top: 295px;
+  width: 856px;
+  height: 64px;
+}
+.m-todo-de-pagamento {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 306px;
+  top: 453px;
+  width: 532px;
+  height: 64px;
+  -webkit-text-stroke: 1px #000000;
+}
+.n-mero-do-cart-o {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 310px;
+  top: 721px;
+  width: 366px;
+  height: 48px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.cart-o-de-cr-dito {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 26.5px;
+  font-weight: 400;
+  position: absolute;
+  left: 381px;
+  top: 575px;
+  width: 366px;
+  height: 48px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.pix {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 26.5px;
+  font-weight: 400;
+  position: absolute;
+  left: 833px;
+  top: 575px;
+  width: 366px;
+  height: 48px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.nome-no-cart-o {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 312px;
+  top: 864px;
+  width: 366px;
+  height: 48px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.validade {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 306px;
+  top: 1017px;
+  width: 366px;
+  height: 48px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.cvv {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 760px;
+  top: 1017px;
+  width: 366px;
+  height: 48px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+._1234-5678-9101-1121 {
+  color: rgba(0, 0, 0, 0.47);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 374px;
+  top: 792px;
+  width: 544px;
+  height: 49px;
+}
+.mm-aa {
+  color: rgba(0, 0, 0, 0.47);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 376px;
+  top: 1090px;
+  width: 120px;
+  height: 49px;
+}
+._123 {
+  color: rgba(0, 0, 0, 0.47);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 817px;
+  top: 1090px;
+  width: 120px;
+  height: 49px;
+}
+.nome-como-esta-no-cart-o {
+  color: rgba(0, 0, 0, 0.47);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 373px;
+  top: 932px;
+  width: 544px;
+  height: 49px;
+}
+.d-bito-ou-cr-dito {
+  color: rgba(0, 0, 0, 0.64);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 382px;
+  top: 608px;
+  width: 239px;
+  height: 19px;
+}
+.aprova-o-instantanea {
+  color: rgba(0, 0, 0, 0.64);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 833px;
+  top: 608px;
+  width: 344px;
+  height: 19px;
+}
+.pagamento-100-seguro-e-criptografado {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 21.5px;
+  font-weight: 400;
+  opacity: 0.82;
+  position: absolute;
+  left: 381px;
+  top: 1344px;
+  width: 487px;
+  height: 36px;
+}
+.rectangle-198 {
+  background: #ffffff;
+  border-radius: 25px;
+  width: 414px;
+  height: 734px;
+  position: absolute;
+  left: 1274px;
+  top: 610px;
+  box-shadow: 0px 4px 50.1px 11px rgba(0, 0, 0, 0.25);
+}
+.r-10-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1561px;
+  top: 999px;
+  -webkit-text-stroke: 0.30000001192092896px #000000;
+}
+.rectangle-199 {
+  background: var(
+    --mais-clara,
+    linear-gradient(90deg, rgba(13, 183, 133, 1) 0%, rgba(4, 182, 207, 1) 100%)
+  );
+  border-radius: 16px;
+  width: 100px;
+  height: 94px;
+  position: absolute;
+  left: 1318px;
+  top: 675px;
+}
+.div {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 1335px;
+  top: 692px;
+  width: 18px;
+  height: 38px;
+}
+.resumo-do-pedido {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1319px;
+  top: 628px;
+  -webkit-text-stroke: 0.30000001192092896px #000000;
+}
+.dr-carlos-silva {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 1430px;
+  top: 679px;
+  -webkit-text-stroke: 0.30000001192092896px #000000;
+}
+.cardiologista {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 1429px;
+  top: 704px;
+}
+._15-05-2026-s-10-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 1428px;
+  top: 744px;
+}
+.line-22 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #b5b5b5;
+  border-width: 1px 0 0 0;
+  width: 352.01px;
+  height: 0px;
+  position: absolute;
+  left: 1300px;
+  top: 825px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.consulta {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1302px;
+  top: 883px;
+}
+.r-250-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1543px;
+  top: 885px;
+  -webkit-text-stroke: 0.30000001192092896px #000000;
+}
+.taxa-de-servi-o {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1299px;
+  top: 995px;
+}
+.line-23 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #b5b5b5;
+  border-width: 1px 0 0 0;
+  width: 352.01px;
+  height: 0px;
+  position: absolute;
+  left: 1300px;
+  top: 1078px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.total {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 1302px;
+  top: 1125px;
+  -webkit-text-stroke: 0.30000001192092896px #000000;
+}
+.r-260-00 {
+  color: #10b981;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 1516px;
+  top: 1125px;
+  -webkit-text-stroke: 1px #10b981;
+}
+.rectangle-211 {
+  background: #afd2c7;
+  border-radius: 9px;
+  width: 353px;
+  height: 120px;
+  position: absolute;
+  left: 1299px;
+  top: 1207px;
+}
+.account-circle {
+  opacity: 0.7;
+  height: auto;
+  position: absolute;
+  left: 329px;
+  top: 936px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.calendar-check {
+  opacity: 0.7;
+  height: auto;
+  position: absolute;
+  left: 329px;
+  top: 1097px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.lock {
+  opacity: 0.7;
+  height: auto;
+  position: absolute;
+  left: 772px;
+  top: 1097px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.lock2 {
+  opacity: 0.7;
+  height: auto;
+  position: absolute;
+  left: 345px;
+  top: 1341px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.mobile-2 {
+  height: auto;
+  position: absolute;
+  left: 772px;
+  top: 586px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.add-card {
+  height: auto;
+  position: absolute;
+  left: 329px;
+  top: 576px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.add-card2 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 329px;
+  top: 796px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.garantia-de-reembolso {
+  color: #10b981;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 1313px;
+  top: 1218px;
+  -webkit-text-stroke: 0.30000001192092896px #10b981;
+}
+.se-voc-n-o-puder-comparecer-cancele-at-24-h-antes-e-receba-reembolso-total {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 1310px;
+  top: 1244px;
+  width: 311px;
+  height: 67px;
+}
+.component-127 {
+  width: 816px;
+  height: 79px;
+  position: absolute;
+  left: 313px;
+  top: 1226px;
+}
+.rectangle-197 {
+  background: var(
+    --mais-clara,
+    linear-gradient(90deg, rgba(13, 183, 133, 1) 0%, rgba(4, 182, 207, 1) 100%)
+  );
+  border-radius: 12px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.confirmar-pagamento {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  right: 26.1%;
+  left: 29.04%;
+  width: 44.85%;
+  bottom: 18.99%;
+  top: 20.25%;
+  height: 60.76%;
+  -webkit-text-stroke: 0.5px #ffffff;
+}
+.rectangle-8 {
+  width: 1920px;
+  height: 121px;
+  position: fixed;
+  left: 0px;
+  top: 121px;
+  transform: translate(0px, -121px);
+  overflow: visible;
+}
+.component-51 {
+  width: 54px;
+  height: 14px;
+  position: fixed;
+  left: 465px;
+  top: 52px;
+}
+.in-cio {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.component-52 {
+  width: 93px;
+  height: 14px;
+  position: fixed;
+  left: 542px;
+  top: 52px;
+}
+.component-53 {
+  width: 123px;
+  height: 14px;
+  position: fixed;
+  left: 639px;
+  top: 52px;
+}
+.component-54 {
+  width: 123px;
+  height: 14px;
+  position: fixed;
+  left: 772px;
+  top: 52px;
+}
+.component-55 {
+  width: 123px;
+  height: 14px;
+  position: fixed;
+  left: 903px;
+  top: 52px;
+}
+.component-56 {
+  width: 203px;
+  height: 51px;
+  position: fixed;
+  left: 1496px;
+  top: 35px;
+}
+.rectangle-32 {
+  border-radius: 0px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.criar-conta {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  right: 6.9%;
+  left: 13.3%;
+  width: 79.8%;
+  bottom: 35.29%;
+  top: 15.69%;
+  height: 49.02%;
+  -webkit-text-stroke: 1px #000000;
+}
+.component-57 {
+  width: 203px;
+  height: 51px;
+  position: fixed;
+  left: 1268px;
+  top: 35px;
+}
+.rectangle-322 {
+  border-radius: 0px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.entrar {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  right: 22.17%;
+  left: 22.66%;
+  width: 55.17%;
+  bottom: 37.25%;
+  top: 13.73%;
+  height: 49.02%;
+  -webkit-text-stroke: 1px #000000;
+}
+.vitalis {
+  background: linear-gradient(
+    90deg,
+    rgba(12, 188, 140, 0.79) 25%,
+    rgba(8, 188, 169, 0.79) 50%,
+    rgba(3, 187, 212, 0.79) 71.15384340286255%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Rowdies-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: fixed;
+  left: 221px;
+  top: 36px;
+  width: 105px;
+  height: 32px;
+}
+.ellipse-34 {
+  background: linear-gradient(
+    179.31deg,
+    rgba(12, 188, 140, 1) 0%,
+    rgba(6, 187, 189, 1) 100%
+  );
+  border-radius: 50%;
+  width: 61px;
+  height: 60px;
+  position: fixed;
+  left: 1172px;
+  top: 29px;
+  box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.25);
+}
+.div2 {
+  color: #41085c;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: fixed;
+  left: 1187px;
+  top: 42px;
+  width: 32px;
+  height: 34px;
+}
