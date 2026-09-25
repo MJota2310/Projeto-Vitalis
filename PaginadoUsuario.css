@@ -1,306 +1,2552 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Vitalis - Cuide da sua saúde com mais praticidade</title>
-<link rel="stylesheet" href="PaginadoUsuario.css">
-</head>
-<div class="pagina-do-usuario">
-  <div class="rectangle-316"></div>
-  <div class="users-page">Users Page</div>
-  <div class="rectangle-311"></div>
-  <div class="rectangle-312"></div>
-  <div class="rectangle-313"></div>
-  <div class="rectangle-314"></div>
-  <div class="rectangle-315"></div>
-  <div class="visualize-e-gerencie-todo-o-seu-hist-rico-de-consultas">
-    Visualize e gerencie todo o seu histórico de consultas
-  </div>
-  <div class="total-de-consultas">Total de consultas</div>
-  <div class="concluidas">Concluidas</div>
-  <div class="agendas">Agendas</div>
-  <div class="canceladas">canceladas</div>
-  <div class="_6">6</div>
-  <div class="_3">3</div>
-  <div class="_2">2</div>
-  <div class="_1">1</div>
-  <img class="data-loss-prevention" src="data-loss-prevention0.svg" />
-  <div class="buscar-por-profissional-especialidade-ou-protocolo">
-    Buscar por profissional, especialidade ou protocolo...
-  </div>
-  <img class="calendar-today" src="calendar-today0.svg" />
-  <img class="check-circle" src="check-circle0.svg" />
-  <img class="alarm" src="alarm0.svg" />
-  <img class="cancel" src="cancel0.svg" />
-  <div class="rectangle-77"></div>
-  <div class="rectangle-75"></div>
-  <div class="rectangle-76"></div>
-  <div class="_2026-vitalis-todos-os-direitos-reservados">
-    © 2026 Vitalis. Todos os direitos reservados.
-  </div>
-  <div class="vitalis">Vitalis</div>
-  <div class="transformando-a-forma-como-voc-cuida-da-sua-sa-de-e-bem-estar">
-    Transformando a forma como você cuida da sua saúde e bem-estar.
-  </div>
-  <div class="links-teis">Links úteis</div>
-  <div class="suporte">Suporte</div>
-  <div class="contato">Contato</div>
-  <div class="vitalis-contato-01-gmail-com">vitalis.contato01@gmail.com</div>
-  <div class="_11-9999-9999">(11) 9999-9999</div>
-  <div class="s-o-paulo-sp-brasil">São Paulo, SP - Brasil</div>
-  <img class="grupo-icones" src="grupo-icones0.svg" />
-  <div class="componente-para-op-ao-de-letras">
-    <div class="in-cio">Central de ajuda</div>
-  </div>
-  <div class="componente-para-op-ao-de-letras2">
-    <div class="in-cio">FAQ</div>
-  </div>
-  <div class="componente-para-op-ao-de-letras3">
-    <div class="in-cio">Termos de uso</div>
-  </div>
-  <div class="componente-para-op-ao-de-letras4">
-    <div class="in-cio">Política de privacidade</div>
-  </div>
-  <div class="componente-para-op-ao-de-letras5">
-    <div class="in-cio">Para Profissionais</div>
-  </div>
-  <div class="componente-para-op-ao-de-letras6">
-    <div class="in-cio">Serviços</div>
-  </div>
-  <div class="componente-para-op-ao-de-letras7">
-    <div class="in-cio">Como Funciona</div>
-  </div>
-  <div class="componente-para-op-ao-de-letras8"></div>
-  <div class="componente-para-op-ao-de-letras9">
-    <div class="in-cio">Inicio</div>
-  </div>
-  <div class="frame-3">
-    <img class="download-1" src="download-10.png" />
-  </div>
-  <div class="frame-5">
-    <img class="image-8" src="image-80.png" />
-  </div>
-  <div class="frame-6">
-    <img class="objeto" src="objeto0.png" />
-  </div>
-  <div class="component-230">
-    <div class="rectangle-3112"></div>
-    <div class="todas">Todas</div>
-  </div>
-  <div class="component-231">
-    <div class="rectangle-308"></div>
-    <div class="conclu-das">Concluídas</div>
-  </div>
-  <div class="component-232">
-    <div class="rectangle-309"></div>
-    <div class="agendadas">Agendadas</div>
-  </div>
-  <div class="component-233">
-    <div class="rectangle-310"></div>
-    <div class="canceladas2">Canceladas</div>
-  </div>
-  <div class="component-251">
-    <img class="check-circle2" src="check-circle1.svg" />
-    <div class="rectangle-304"></div>
-    <img class="download" src="download0.svg" />
-    <img class="calendar-today2" src="calendar-today1.svg" />
-    <img class="alarm2" src="alarm1.svg" />
-    <img class="archive" src="archive0.svg" />
-  </div>
-  <div class="component-257">
-    <img class="check-circle3" src="check-circle2.svg" />
-    <div class="rectangle-304"></div>
-    <img class="download2" src="download1.svg" />
-    <img class="calendar-today3" src="calendar-today2.svg" />
-    <img class="alarm3" src="alarm2.svg" />
-    <img class="archive2" src="archive1.svg" />
-  </div>
-  <div class="component-256">
-    <img class="check-circle4" src="check-circle3.svg" />
-    <div class="rectangle-304"></div>
-    <img class="download3" src="download2.svg" />
-    <img class="calendar-today4" src="calendar-today3.svg" />
-    <img class="alarm4" src="alarm3.svg" />
-    <img class="archive3" src="archive2.svg" />
-  </div>
-  <div class="component-255">
-    <img class="check-circle5" src="check-circle4.svg" />
-    <div class="rectangle-304"></div>
-    <img class="download4" src="download3.svg" />
-    <img class="calendar-today5" src="calendar-today4.svg" />
-    <img class="alarm5" src="alarm4.svg" />
-    <img class="archive4" src="archive3.svg" />
-  </div>
-  <div class="component-254">
-    <img class="check-circle6" src="check-circle5.svg" />
-    <div class="rectangle-304"></div>
-    <img class="download5" src="download4.svg" />
-    <img class="calendar-today6" src="calendar-today5.svg" />
-    <img class="alarm6" src="alarm5.svg" />
-    <img class="archive5" src="archive4.svg" />
-  </div>
-  <div class="component-253">
-    <img class="check-circle7" src="check-circle6.svg" />
-    <div class="rectangle-304"></div>
-    <img class="download6" src="download5.svg" />
-    <img class="calendar-today7" src="calendar-today6.svg" />
-    <img class="alarm7" src="alarm6.svg" />
-    <img class="archive6" src="archive5.svg" />
-  </div>
-  <img class="check-circle8" src="check-circle7.svg" />
-  <div class="rectangle-302"></div>
-  <div class="rectangle-303"></div>
-  <div class="rectangle-305"></div>
-  <div class="rectangle-306"></div>
-  <div class="rectangle-318"></div>
-  <div class="rectangle-319"></div>
-  <div class="rectangle-320"></div>
-  <div class="rectangle-321"></div>
-  <div class="rectangle-323"></div>
-  <div class="rectangle-324"></div>
-  <div class="rectangle-328"></div>
-  <div class="rectangle-329"></div>
-  <div class="rectangle-333"></div>
-  <div class="rectangle-334"></div>
-  <div class="rectangle-335"></div>
-  <div class="rectangle-336"></div>
-  <img class="check-circle9" src="check-circle8.svg" />
-  <div class="ver-detalhes">Ver Detalhes</div>
-  <div class="baixar-receita">Baixar Receita</div>
-  <div class="conclu-da">Concluída</div>
-  <div class="_30-04-2026">30/04/2026</div>
-  <div class="_10-00">10:00</div>
-  <div class="vit-12345">VIT-12345</div>
-  <div class="cardiologia">Cardiologia</div>
-  <div class="psicologia">Psicologia</div>
-  <div class="fisioterapia">Fisioterapia</div>
-  <div class="dermatologia">Dermatologia</div>
-  <div class="dermatologia2">Dermatologia</div>
-  <div class="rectangle-342"></div>
-  <div class="conclu-da2">Concluída</div>
-  <div class="rectangle-343"></div>
-  <div class="conclu-da3">Concluída</div>
-  <div class="rectangle-341"></div>
-  <div class="aguardando">Aguardando</div>
-  <div class="_27-04-2026">27/04/2026</div>
-  <div class="vit-123452">VIT-12345</div>
-  <div class="_14-30">14:30</div>
-  <div class="rectangle-345"></div>
-  <div class="rectangle-346"></div>
-  <div class="ver-detalhes2">Ver Detalhes</div>
-  <div class="baixar-receita2">Baixar Receita</div>
-  <img class="archive7" src="archive6.svg" />
-  <img class="calendar-today8" src="calendar-today7.svg" />
-  <img class="alarm8" src="alarm7.svg" />
-  <div class="r-180-00">R$ 180,00</div>
-  <img class="download7" src="download6.svg" />
-  <div class="rectangle-349"></div>
-  <div class="rectangle-350"></div>
-  <div class="_14-03-2026">14/03/2026</div>
-  <div class="vit-123453">VIT-12345</div>
-  <div class="_11-00">11:00</div>
-  <div class="rectangle-351"></div>
-  <div class="rectangle-352"></div>
-  <div class="ver-detalhes3">Ver Detalhes</div>
-  <div class="baixar-receita3">Baixar Receita</div>
-  <img class="archive8" src="archive7.svg" />
-  <img class="calendar-today9" src="calendar-today8.svg" />
-  <img class="alarm9" src="alarm8.svg" />
-  <div class="r-280-00">R$ 280,00</div>
-  <div class="_19-04-2026">19/04/2026</div>
-  <div class="vit-123454">VIT-12345</div>
-  <div class="_16-20">16:20</div>
-  <img class="archive9" src="archive8.svg" />
-  <img class="calendar-today10" src="calendar-today9.svg" />
-  <img class="alarm10" src="alarm9.svg" />
-  <div class="r-200-00">R$ 200,00</div>
-  <img class="download8" src="download7.svg" />
-  <img class="archive10" src="archive9.svg" />
-  <img class="calendar-today11" src="calendar-today10.svg" />
-  <img class="alarm11" src="alarm10.svg" />
-  <div class="r-150-00">R$ 150,00</div>
-  <div class="bounding-box"></div>
-  <div class="_30-05-2026">30/05/2026</div>
-  <div class="vit-123455">VIT-12345</div>
-  <div class="_09-00">09:00</div>
-  <div class="rectangle-354"></div>
-  <div class="rectangle-355"></div>
-  <div class="ver-detalhes4">Ver Detalhes</div>
-  <div class="ver-detalhes5">Ver Detalhes</div>
-  <div class="cancelar">Cancelar</div>
-  <div class="rectangle-347"></div>
-  <div class="cancelada">Cancelada</div>
-  <div class="rectangle-348"></div>
-  <div class="aguardando2">Aguardando</div>
-  <div class="div">👨‍⚕️</div>
-  <div class="div2">👩‍⚕️</div>
-  <div class="div3">👩‍⚕️</div>
-  <div class="div4">👨‍⚕️</div>
-  <div class="div5">👨‍⚕️</div>
-  <img class="check-circle10" src="check-circle9.svg" />
-  <img class="check-circle11" src="check-circle10.svg" />
-  <div class="bounding-box2"></div>
-  <img class="alarm13" src="alarm12.svg" />
-  <img class="cancel2" src="cancel1.svg" />
-  <div class="dra-ana-costa">
-    Dra. Ana Costa
-    <br />
-  </div>
-  <div class="dr-carlos-silva">
-    Dr. Carlos Silva
-    <br />
-  </div>
-  <div class="dr-roberto-alves">Dr. Roberto Alves</div>
-  <div class="dra-carla-mendes">Dra. Carla Mendes</div>
-  <div class="dr-jo-o-santos">
-    Dr. João Santos
-    <br />
-  </div>
-  <div class="r-250-00">R$ 250,00</div>
-  <img class="download9" src="download8.svg" />
-  <img class="calendar-today12" src="calendar-today11.svg" />
-  <img class="alarm14" src="alarm13.svg" />
-  <img class="archive11" src="archive10.svg" />
-  <div class="rectangle-338"></div>
-  <div class="rectangle-339"></div>
-  <div class="dermatologia3">Dermatologia</div>
-  <div class="rectangle-353"></div>
-  <img class="archive12" src="archive11.svg" />
-  <img class="calendar-today13" src="calendar-today12.svg" />
-  <img class="alarm15" src="alarm14.svg" />
-  <div class="r-160-00">R$ 160,00</div>
-  <div class="bounding-box3"></div>
-  <div class="_15-06-2026">15/06/2026</div>
-  <div class="vit-123456">VIT-12345</div>
-  <div class="_15-00">15:00</div>
-  <div class="rectangle-3472"></div>
-  <div class="rectangle-3482"></div>
-  <div class="ver-detalhes6">Ver Detalhes</div>
-  <div class="cancelar2">Cancelar</div>
-  <div class="div6">👩‍⚕️</div>
-  <img class="alarm16" src="alarm15.svg" />
-  <div class="dra-patricia-lima">
-    Dra. Patricia Lima
-    <br />
-  </div>
-  <img class="rectangle-5" src="rectangle-50.svg" />
-  <div class="component-30">
-    <div class="in-cio2">Inicío</div>
-  </div>
-  <div class="component-31">
-    <div class="in-cio2">Agende</div>
-  </div>
-  <div class="component-32">
-    <div class="in-cio2">Dashboard</div>
-  </div>
-  <div class="component-35">
-    <div class="in-cio2">Consultas</div>
-  </div>
-  <div class="component-36">
-    <div class="in-cio2">Suporte</div>
-  </div>
-  <div class="vitalis2">Vitalis</div>
-  <div class="ellipse-31"></div>
-  <div class="div7">👤</div>
-</div>
+.pagina-do-usuario,
+.pagina-do-usuario * {
+  box-sizing: border-box;
+}
+.pagina-do-usuario {
+  background: #f6f6f6;
+  height: 3768px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-316 {
+  background: #ffffff;
+  border-radius: 18px;
+  width: 1822px;
+  height: 2339px;
+  position: absolute;
+  left: 51px;
+  top: 563px;
+  box-shadow: 0px 4px 16.8px 2px rgba(0, 0, 0, 0.25);
+}
+.users-page {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 46px;
+  top: 183px;
+  width: 300px;
+  height: 80px;
+}
+.rectangle-311 {
+  background: #ffffff;
+  border-radius: 19px;
+  width: 436px;
+  height: 179px;
+  position: absolute;
+  left: 51px;
+  top: 355px;
+  box-shadow: 0px 4px 16.8px 2px rgba(0, 0, 0, 0.25);
+}
+.rectangle-312 {
+  background: #ffffff;
+  border-radius: 19px;
+  width: 436px;
+  height: 179px;
+  position: absolute;
+  left: 513px;
+  top: 355px;
+  box-shadow: 0px 4px 16.8px 2px rgba(0, 0, 0, 0.25);
+}
+.rectangle-313 {
+  background: #ffffff;
+  border-radius: 19px;
+  width: 436px;
+  height: 179px;
+  position: absolute;
+  left: 975px;
+  top: 355px;
+  box-shadow: 0px 4px 16.8px 2px rgba(0, 0, 0, 0.25);
+}
+.rectangle-314 {
+  background: #ffffff;
+  border-radius: 19px;
+  width: 436px;
+  height: 179px;
+  position: absolute;
+  left: 1437px;
+  top: 355px;
+  box-shadow: 0px 4px 16.8px 2px rgba(0, 0, 0, 0.25);
+}
+.rectangle-315 {
+  background: rgba(255, 255, 255, 0.83);
+  border-radius: 15px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.32);
+  border-width: 1px;
+  width: 989px;
+  height: 80px;
+  position: absolute;
+  left: 90px;
+  top: 630px;
+}
+.visualize-e-gerencie-todo-o-seu-hist-rico-de-consultas {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  opacity: 0.62;
+  position: absolute;
+  left: 47px;
+  top: 263px;
+  width: 730px;
+  height: 28px;
+}
+.total-de-consultas {
+  color: rgba(0, 0, 0, 0.67);
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 94px;
+  top: 465px;
+  width: 231px;
+  height: 22px;
+}
+.concluidas {
+  color: rgba(0, 0, 0, 0.67);
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 556px;
+  top: 465px;
+  width: 231px;
+  height: 22px;
+}
+.agendas {
+  color: rgba(0, 0, 0, 0.67);
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1016px;
+  top: 465px;
+  width: 231px;
+  height: 22px;
+}
+.canceladas {
+  color: rgba(0, 0, 0, 0.67);
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1478px;
+  top: 465px;
+  width: 231px;
+  height: 22px;
+}
+._6 {
+  color: #0cbc8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 393px;
+  top: 397px;
+  width: 44px;
+  height: 48px;
+}
+._3 {
+  color: #0cbc8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 882px;
+  top: 397px;
+  width: 44px;
+  height: 48px;
+}
+._2 {
+  color: #09b6d5;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 1344px;
+  top: 397px;
+  width: 44px;
+  height: 48px;
+}
+._1 {
+  color: #ff0000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 1808px;
+  top: 397px;
+  width: 44px;
+  height: 48px;
+}
+.data-loss-prevention {
+  opacity: 0.38;
+  height: auto;
+  position: absolute;
+  left: 122px;
+  top: 652px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.buscar-por-profissional-especialidade-ou-protocolo {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  opacity: 0.47;
+  position: absolute;
+  left: 178px;
+  top: 650px;
+  width: 838px;
+  height: 40px;
+}
+.calendar-today {
+  height: auto;
+  position: absolute;
+  left: 91px;
+  top: 397px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.check-circle {
+  height: auto;
+  position: absolute;
+  left: 553px;
+  top: 397px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm {
+  height: auto;
+  position: absolute;
+  left: 1009px;
+  top: 397px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.cancel {
+  height: auto;
+  position: absolute;
+  left: 1477px;
+  top: 397px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-final {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-77 {
+  background: #948a8a;
+  width: 1917px;
+  height: 105.45px;
+  position: absolute;
+  left: 0px;
+  top: 3494.25px;
+}
+.rectangle-75 {
+  background: #000000;
+  width: 1920px;
+  height: 603.27px;
+  position: absolute;
+  left: 0px;
+  top: 2966px;
+}
+.rectangle-76 {
+  background: #111010;
+  width: 1920px;
+  height: 209.88px;
+  position: absolute;
+  left: 0px;
+  top: 3558.12px;
+}
+._2026-vitalis-todos-os-direitos-reservados {
+  color: #c1c1c1;
+  text-align: center;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  position: absolute;
+  left: 632px;
+  top: 3598.68px;
+  width: 666px;
+  height: 41.57px;
+}
+.vitalis {
+  background: linear-gradient(
+    90deg,
+    rgba(20, 183, 135, 1) 28.846153616905212%,
+    rgba(28, 175, 183, 1) 59.61538553237915%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 68px;
+  font-weight: 300;
+  position: absolute;
+  left: 212px;
+  top: 3110.99px;
+  width: 320px;
+  height: 69.96px;
+}
+.transformando-a-forma-como-voc-cuida-da-sua-sa-de-e-bem-estar {
+  color: #dddddd;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 23px;
+  font-weight: 300;
+  position: absolute;
+  left: 251px;
+  top: 3202.24px;
+  width: 381px;
+  height: 79.08px;
+}
+.links-teis {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 736px;
+  top: 3147.49px;
+  width: 184px;
+  height: 39.54px;
+}
+.suporte {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 1042px;
+  top: 3143.43px;
+  width: 184px;
+  height: 39.54px;
+}
+.contato {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 1418.67px;
+  top: 3146.48px;
+  width: 184px;
+  height: 39.54px;
+}
+.vitalis-contato-01-gmail-com {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 26px;
+  font-weight: 300;
+  opacity: 0.71;
+  position: absolute;
+  left: 1414.11px;
+  top: 3250.91px;
+  width: 343.57px;
+  height: 39.54px;
+}
+._11-9999-9999 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  opacity: 0.71;
+  position: absolute;
+  left: 1369.67px;
+  top: 3334.05px;
+  width: 279px;
+  height: 39.54px;
+}
+.s-o-paulo-sp-brasil {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  opacity: 0.71;
+  position: absolute;
+  left: 1395.67px;
+  top: 3415.16px;
+  width: 279px;
+  height: 39.54px;
+}
+.grupo-icones {
+  width: 57.27px;
+  height: 211px;
+  position: absolute;
+  left: 1343.03px;
+  top: 3231.64px;
+  overflow: visible;
+}
+.componente-para-op-ao-de-letras {
+  width: 221px;
+  height: 21.29px;
+  position: absolute;
+  left: 1038px;
+  top: 3246.85px;
+}
+.in-cio {
+  color: #b5b5b5;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 27px;
+  font-weight: 300;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.componente-para-op-ao-de-letras2 {
+  width: 75px;
+  height: 21.29px;
+  position: absolute;
+  left: 1112px;
+  top: 3305.66px;
+}
+.componente-para-op-ao-de-letras3 {
+  width: 201px;
+  height: 21.29px;
+  position: absolute;
+  left: 1054px;
+  top: 3375.62px;
+}
+.componente-para-op-ao-de-letras4 {
+  width: 355px;
+  height: 21.29px;
+  position: absolute;
+  left: 1034px;
+  top: 3445.58px;
+}
+.componente-para-op-ao-de-letras5 {
+  width: 225px;
+  height: 21.29px;
+  position: absolute;
+  left: 734px;
+  top: 3445.58px;
+}
+.componente-para-op-ao-de-letras6 {
+  width: 107px;
+  height: 21.29px;
+  position: absolute;
+  left: 774px;
+  top: 3375.62px;
+}
+.componente-para-op-ao-de-letras7 {
+  width: 189px;
+  height: 21.29px;
+  position: absolute;
+  left: 731px;
+  top: 3305.66px;
+}
+.componente-para-op-ao-de-letras8 {
+  width: 75px;
+  height: 21.29px;
+  position: absolute;
+  left: 792px;
+  top: 3246.85px;
+}
+.componente-para-op-ao-de-letras9 {
+  width: 74.69px;
+  height: 21.29px;
+  position: absolute;
+  left: 792.7px;
+  top: 3246.85px;
+}
+.frame-3 {
+  background: rgba(255, 255, 255, 0.07);
+  width: 75.68px;
+  height: 72px;
+  position: absolute;
+  left: 379.42px;
+  top: 3339px;
+  overflow: hidden;
+}
+.download-1 {
+  width: 66px;
+  height: 66px;
+  position: absolute;
+  left: 5px;
+  top: 3px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-5 {
+  background: rgba(255, 255, 255, 0.07);
+  width: 75.68px;
+  height: 72px;
+  position: absolute;
+  left: 270.87px;
+  top: 3339px;
+  overflow: hidden;
+}
+.image-8 {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  left: 6px;
+  top: 4px;
+  object-fit: cover;
+}
+.frame-6 {
+  background: rgba(255, 255, 255, 0.07);
+  width: 75.68px;
+  height: 72px;
+  position: absolute;
+  left: 487.97px;
+  top: 3339px;
+  overflow: hidden;
+}
+.objeto {
+  width: 101.32%;
+  height: 98.59%;
+  position: absolute;
+  right: 3.95%;
+  left: -5.26%;
+  bottom: 1.41%;
+  top: 0%;
+  object-fit: cover;
+  aspect-ratio: 76.68/70.99;
+}
+.component-230 {
+  width: 125px;
+  height: 83px;
+  position: absolute;
+  left: 1090px;
+  top: 625px;
+}
+.rectangle-3112 {
+  background: #d9d9d9;
+  border-radius: 12px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.todas {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  right: 9.6%;
+  left: 16%;
+  width: 74.4%;
+  bottom: 40.96%;
+  top: 30.12%;
+  height: 28.92%;
+}
+.component-231 {
+  width: 184px;
+  height: 83px;
+  position: absolute;
+  left: 1231px;
+  top: 625px;
+}
+.rectangle-308 {
+  background: #d9d9d9;
+  border-radius: 12px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.conclu-das {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  right: 4.89%;
+  left: 8.15%;
+  width: 86.96%;
+  bottom: 40.96%;
+  top: 30.12%;
+  height: 28.92%;
+}
+.component-232 {
+  width: 192px;
+  height: 83px;
+  position: absolute;
+  left: 1431px;
+  top: 625px;
+}
+.rectangle-309 {
+  background: #d9d9d9;
+  border-radius: 12px;
+  width: 99.48%;
+  height: 100%;
+  position: absolute;
+  right: 0.52%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.agendadas {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  right: 0%;
+  left: 8.85%;
+  width: 91.15%;
+  bottom: 40.96%;
+  top: 30.12%;
+  height: 28.92%;
+}
+.component-233 {
+  width: 189px;
+  height: 83px;
+  position: absolute;
+  left: 1639px;
+  top: 625px;
+}
+.rectangle-310 {
+  background: #d9d9d9;
+  border-radius: 12px;
+  width: 98.41%;
+  height: 100%;
+  position: absolute;
+  right: 1.59%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.canceladas2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  right: 0%;
+  left: 7.41%;
+  width: 92.59%;
+  bottom: 40.96%;
+  top: 30.12%;
+  height: 28.92%;
+}
+.component-251 {
+  width: 1736px;
+  height: 318px;
+  position: absolute;
+  left: 115px;
+  top: 812px;
+}
+.check-circle2 {
+  width: 1.38%;
+  height: 7.55%;
+  position: absolute;
+  right: 10.2%;
+  left: 88.42%;
+  bottom: 92.45%;
+  top: 0%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.rectangle-304 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 100%;
+  height: 96.36%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 3.64%;
+  box-shadow: 0px 4px 16.8px 2px rgba(0, 0, 0, 0.25);
+}
+.download {
+  width: 2.19%;
+  height: 11.95%;
+  position: absolute;
+  right: 74.88%;
+  left: 22.93%;
+  bottom: 13.52%;
+  top: 74.53%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.calendar-today2 {
+  opacity: 0.56;
+  width: 1.73%;
+  height: 9.43%;
+  position: absolute;
+  right: 88.65%;
+  left: 9.62%;
+  bottom: 35.53%;
+  top: 55.03%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm2 {
+  opacity: 0.56;
+  width: 1.96%;
+  height: 10.69%;
+  position: absolute;
+  right: 65.32%;
+  left: 32.72%;
+  bottom: 34.28%;
+  top: 55.03%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.archive {
+  opacity: 0.56;
+  width: 1.84%;
+  height: 10.06%;
+  position: absolute;
+  right: 42.57%;
+  left: 55.59%;
+  bottom: 35.53%;
+  top: 54.4%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.component-257 {
+  width: 1736px;
+  height: 330px;
+  position: absolute;
+  left: 115px;
+  top: 1138px;
+}
+.check-circle3 {
+  width: 1.38%;
+  height: 7.27%;
+  position: absolute;
+  right: 10.2%;
+  left: 88.42%;
+  bottom: 92.73%;
+  top: 0%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.download2 {
+  width: 2.19%;
+  height: 11.52%;
+  position: absolute;
+  right: 74.88%;
+  left: 22.93%;
+  bottom: 16.67%;
+  top: 71.82%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.calendar-today3 {
+  opacity: 0.56;
+  width: 1.73%;
+  height: 9.09%;
+  position: absolute;
+  right: 88.65%;
+  left: 9.62%;
+  bottom: 37.88%;
+  top: 53.03%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm3 {
+  opacity: 0.56;
+  width: 1.96%;
+  height: 10.3%;
+  position: absolute;
+  right: 65.32%;
+  left: 32.72%;
+  bottom: 36.67%;
+  top: 53.03%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.archive2 {
+  opacity: 0.56;
+  width: 1.84%;
+  height: 9.7%;
+  position: absolute;
+  right: 42.57%;
+  left: 55.59%;
+  bottom: 37.88%;
+  top: 52.42%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.component-256 {
+  width: 1736px;
+  height: 330px;
+  position: absolute;
+  left: 107px;
+  top: 1476px;
+}
+.check-circle4 {
+  width: 1.38%;
+  height: 7.27%;
+  position: absolute;
+  right: 10.2%;
+  left: 88.42%;
+  bottom: 92.73%;
+  top: 0%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.download3 {
+  width: 2.19%;
+  height: 11.52%;
+  position: absolute;
+  right: 74.88%;
+  left: 22.93%;
+  bottom: 16.67%;
+  top: 71.82%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.calendar-today4 {
+  opacity: 0.56;
+  width: 1.73%;
+  height: 9.09%;
+  position: absolute;
+  right: 88.65%;
+  left: 9.62%;
+  bottom: 37.88%;
+  top: 53.03%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm4 {
+  opacity: 0.56;
+  width: 1.96%;
+  height: 10.3%;
+  position: absolute;
+  right: 65.32%;
+  left: 32.72%;
+  bottom: 36.67%;
+  top: 53.03%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.archive3 {
+  opacity: 0.56;
+  width: 1.84%;
+  height: 9.7%;
+  position: absolute;
+  right: 42.57%;
+  left: 55.59%;
+  bottom: 37.88%;
+  top: 52.42%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.component-255 {
+  width: 1736px;
+  height: 330px;
+  position: absolute;
+  left: 107px;
+  top: 1814px;
+}
+.check-circle5 {
+  width: 1.38%;
+  height: 7.27%;
+  position: absolute;
+  right: 10.2%;
+  left: 88.42%;
+  bottom: 92.73%;
+  top: 0%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.download4 {
+  width: 2.19%;
+  height: 11.52%;
+  position: absolute;
+  right: 74.88%;
+  left: 22.93%;
+  bottom: 16.67%;
+  top: 71.82%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.calendar-today5 {
+  opacity: 0.56;
+  width: 1.73%;
+  height: 9.09%;
+  position: absolute;
+  right: 88.65%;
+  left: 9.62%;
+  bottom: 37.88%;
+  top: 53.03%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm5 {
+  opacity: 0.56;
+  width: 1.96%;
+  height: 10.3%;
+  position: absolute;
+  right: 65.32%;
+  left: 32.72%;
+  bottom: 36.67%;
+  top: 53.03%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.archive4 {
+  opacity: 0.56;
+  width: 1.84%;
+  height: 9.7%;
+  position: absolute;
+  right: 42.57%;
+  left: 55.59%;
+  bottom: 37.88%;
+  top: 52.42%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.component-254 {
+  width: 1736px;
+  height: 330px;
+  position: absolute;
+  left: 107px;
+  top: 2152px;
+}
+.check-circle6 {
+  width: 1.38%;
+  height: 7.27%;
+  position: absolute;
+  right: 10.2%;
+  left: 88.42%;
+  bottom: 92.73%;
+  top: 0%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.download5 {
+  width: 2.19%;
+  height: 11.52%;
+  position: absolute;
+  right: 74.88%;
+  left: 22.93%;
+  bottom: 16.67%;
+  top: 71.82%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.calendar-today6 {
+  opacity: 0.56;
+  width: 1.73%;
+  height: 9.09%;
+  position: absolute;
+  right: 88.65%;
+  left: 9.62%;
+  bottom: 37.88%;
+  top: 53.03%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm6 {
+  opacity: 0.56;
+  width: 1.96%;
+  height: 10.3%;
+  position: absolute;
+  right: 65.32%;
+  left: 32.72%;
+  bottom: 36.67%;
+  top: 53.03%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.archive5 {
+  opacity: 0.56;
+  width: 1.84%;
+  height: 9.7%;
+  position: absolute;
+  right: 42.57%;
+  left: 55.59%;
+  bottom: 37.88%;
+  top: 52.42%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.component-253 {
+  width: 1736px;
+  height: 330px;
+  position: absolute;
+  left: 107px;
+  top: 2490px;
+}
+.check-circle7 {
+  width: 1.38%;
+  height: 7.27%;
+  position: absolute;
+  right: 10.2%;
+  left: 88.42%;
+  bottom: 92.73%;
+  top: 0%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.download6 {
+  width: 2.19%;
+  height: 11.52%;
+  position: absolute;
+  right: 74.88%;
+  left: 22.93%;
+  bottom: 16.67%;
+  top: 71.82%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.calendar-today7 {
+  opacity: 0.56;
+  width: 1.73%;
+  height: 9.09%;
+  position: absolute;
+  right: 88.65%;
+  left: 9.62%;
+  bottom: 37.88%;
+  top: 53.03%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm7 {
+  opacity: 0.56;
+  width: 1.96%;
+  height: 10.3%;
+  position: absolute;
+  right: 65.32%;
+  left: 32.72%;
+  bottom: 36.67%;
+  top: 53.03%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.archive6 {
+  opacity: 0.56;
+  width: 1.84%;
+  height: 9.7%;
+  position: absolute;
+  right: 42.57%;
+  left: 55.59%;
+  bottom: 37.88%;
+  top: 52.42%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.check-circle8 {
+  height: auto;
+  position: absolute;
+  left: 1630px;
+  top: 816px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.rectangle-302 {
+  background: var(
+    --mais-clara,
+    linear-gradient(90deg, rgba(13, 183, 133, 1) 0%, rgba(4, 182, 207, 1) 100%)
+  );
+  border-radius: 20px;
+  width: 107px;
+  height: 106px;
+  position: absolute;
+  left: 135px;
+  top: 869px;
+}
+.rectangle-303 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #09b6d5;
+  border-width: 1.5px;
+  width: 188px;
+  height: 63px;
+  position: absolute;
+  left: 268px;
+  top: 1043px;
+}
+.rectangle-305 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #36ce8c;
+  border-width: 1.5px;
+  width: 235px;
+  height: 61px;
+  position: absolute;
+  left: 477px;
+  top: 1044px;
+}
+.rectangle-306 {
+  background: #36ce8c;
+  border-radius: 30px;
+  opacity: 0.12;
+  width: 166px;
+  height: 40px;
+  position: absolute;
+  left: 1631px;
+  top: 869px;
+}
+.rectangle-318 {
+  background: var(
+    --mais-clara,
+    linear-gradient(90deg, rgba(13, 183, 133, 1) 0%, rgba(4, 182, 207, 1) 100%)
+  );
+  border-radius: 20px;
+  width: 107px;
+  height: 106px;
+  position: absolute;
+  left: 135px;
+  top: 1207px;
+}
+.rectangle-319 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #09b6d5;
+  border-width: 1.5px;
+  width: 188px;
+  height: 63px;
+  position: absolute;
+  left: 268px;
+  top: 1381px;
+}
+.rectangle-320 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #36ce8c;
+  border-width: 1.5px;
+  width: 235px;
+  height: 61px;
+  position: absolute;
+  left: 477px;
+  top: 1382px;
+}
+.rectangle-321 {
+  background: #e7f9f1;
+  border-radius: 30px;
+  width: 166px;
+  height: 40px;
+  position: absolute;
+  left: 1631px;
+  top: 1207px;
+}
+.rectangle-323 {
+  background: var(
+    --mais-clara,
+    linear-gradient(90deg, rgba(13, 183, 133, 1) 0%, rgba(4, 182, 207, 1) 100%)
+  );
+  border-radius: 20px;
+  width: 107px;
+  height: 106px;
+  position: absolute;
+  left: 135px;
+  top: 1545px;
+}
+.rectangle-324 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #09b6d5;
+  border-width: 1.5px;
+  width: 188px;
+  height: 63px;
+  position: absolute;
+  left: 268px;
+  top: 1719px;
+}
+.rectangle-328 {
+  background: var(
+    --mais-clara,
+    linear-gradient(90deg, rgba(13, 183, 133, 1) 0%, rgba(4, 182, 207, 1) 100%)
+  );
+  border-radius: 20px;
+  width: 107px;
+  height: 106px;
+  position: absolute;
+  left: 135px;
+  top: 1883px;
+}
+.rectangle-329 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #09b6d5;
+  border-width: 1.5px;
+  width: 188px;
+  height: 63px;
+  position: absolute;
+  left: 268px;
+  top: 2057px;
+}
+.rectangle-333 {
+  background: var(
+    --mais-clara,
+    linear-gradient(90deg, rgba(13, 183, 133, 1) 0%, rgba(4, 182, 207, 1) 100%)
+  );
+  border-radius: 20px;
+  width: 107px;
+  height: 106px;
+  position: absolute;
+  left: 135px;
+  top: 2221px;
+}
+.rectangle-334 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #09b6d5;
+  border-width: 1.5px;
+  width: 188px;
+  height: 63px;
+  position: absolute;
+  left: 268px;
+  top: 2395px;
+}
+.rectangle-335 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #36ce8c;
+  border-width: 1.5px;
+  width: 235px;
+  height: 61px;
+  position: absolute;
+  left: 477px;
+  top: 2396px;
+}
+.rectangle-336 {
+  background: #e7f9f1;
+  border-radius: 30px;
+  width: 166px;
+  height: 40px;
+  position: absolute;
+  left: 1631px;
+  top: 2221px;
+}
+.check-circle9 {
+  height: auto;
+  position: absolute;
+  left: 1643px;
+  top: 2230px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.ver-detalhes {
+  color: #09b6d5;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 293px;
+  top: 1060px;
+  width: 141px;
+  height: 15px;
+}
+.baixar-receita {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 535px;
+  top: 1060px;
+  width: 158px;
+  height: 15px;
+}
+.conclu-da {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 1669px;
+  top: 874px;
+  width: 158px;
+  height: 15px;
+}
+._30-04-2026 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 293px;
+  top: 994px;
+  width: 166px;
+  height: 22px;
+}
+._10-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 700px;
+  top: 996px;
+  width: 166px;
+  height: 22px;
+}
+.vit-12345 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 1092px;
+  top: 994px;
+  width: 166px;
+  height: 22px;
+}
+.cardiologia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  opacity: 0.58;
+  position: absolute;
+  left: 270px;
+  top: 931px;
+  width: 228px;
+  height: 25px;
+}
+.psicologia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  opacity: 0.58;
+  position: absolute;
+  left: 270px;
+  top: 1264px;
+  width: 228px;
+  height: 25px;
+}
+.fisioterapia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  opacity: 0.58;
+  position: absolute;
+  left: 270px;
+  top: 1598px;
+  width: 228px;
+  height: 25px;
+}
+.dermatologia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  opacity: 0.58;
+  position: absolute;
+  left: 270px;
+  top: 1936px;
+  width: 228px;
+  height: 25px;
+}
+.dermatologia2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  opacity: 0.58;
+  position: absolute;
+  left: 270px;
+  top: 2262px;
+  width: 228px;
+  height: 25px;
+}
+.rectangle-342 {
+  background: #36ce8c;
+  border-radius: 30px;
+  opacity: 0.12;
+  width: 166px;
+  height: 40px;
+  position: absolute;
+  left: 1631px;
+  top: 1205px;
+}
+.conclu-da2 {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 1669px;
+  top: 1210px;
+  width: 158px;
+  height: 15px;
+}
+.rectangle-343 {
+  background: #36ce8c;
+  border-radius: 30px;
+  opacity: 0.12;
+  width: 166px;
+  height: 40px;
+  position: absolute;
+  left: 1631px;
+  top: 2222px;
+}
+.conclu-da3 {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 1669px;
+  top: 2227px;
+  width: 158px;
+  height: 15px;
+}
+.rectangle-341 {
+  background: #b5e9f2;
+  border-radius: 30px;
+  width: 166px;
+  height: 40px;
+  position: absolute;
+  left: 1634px;
+  top: 2559px;
+}
+.aguardando {
+  color: #09b6d5;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 1661px;
+  top: 2565px;
+  width: 158px;
+  height: 15px;
+}
+._27-04-2026 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 293px;
+  top: 1332px;
+  width: 166px;
+  height: 22px;
+}
+.vit-123452 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 1092px;
+  top: 1332px;
+  width: 166px;
+  height: 22px;
+}
+._14-30 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 700px;
+  top: 1334px;
+  width: 166px;
+  height: 22px;
+}
+.rectangle-345 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #09b6d5;
+  border-width: 1.5px;
+  width: 188px;
+  height: 63px;
+  position: absolute;
+  left: 268px;
+  top: 1381px;
+}
+.rectangle-346 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #36ce8c;
+  border-width: 1.5px;
+  width: 235px;
+  height: 61px;
+  position: absolute;
+  left: 477px;
+  top: 1382px;
+}
+.ver-detalhes2 {
+  color: #09b6d5;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 293px;
+  top: 1398px;
+  width: 141px;
+  height: 15px;
+}
+.baixar-receita2 {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 535px;
+  top: 1398px;
+  width: 158px;
+  height: 15px;
+}
+.archive7 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 1060px;
+  top: 1327px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.calendar-today8 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 262px;
+  top: 1329px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm8 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 663px;
+  top: 1329px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.r-180-00 {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 1502px;
+  top: 1331px;
+}
+.download7 {
+  height: auto;
+  position: absolute;
+  left: 493px;
+  top: 1391px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.rectangle-349 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #09b6d5;
+  border-width: 1.5px;
+  width: 188px;
+  height: 63px;
+  position: absolute;
+  left: 268px;
+  top: 2395px;
+}
+.rectangle-350 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #36ce8c;
+  border-width: 1.5px;
+  width: 235px;
+  height: 61px;
+  position: absolute;
+  left: 477px;
+  top: 2396px;
+}
+._14-03-2026 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 293px;
+  top: 2346px;
+  width: 166px;
+  height: 22px;
+}
+.vit-123453 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 1092px;
+  top: 2346px;
+  width: 166px;
+  height: 22px;
+}
+._11-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 700px;
+  top: 2348px;
+  width: 166px;
+  height: 22px;
+}
+.rectangle-351 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #09b6d5;
+  border-width: 1.5px;
+  width: 188px;
+  height: 63px;
+  position: absolute;
+  left: 268px;
+  top: 2395px;
+}
+.rectangle-352 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #36ce8c;
+  border-width: 1.5px;
+  width: 235px;
+  height: 61px;
+  position: absolute;
+  left: 477px;
+  top: 2396px;
+}
+.ver-detalhes3 {
+  color: #09b6d5;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 293px;
+  top: 2412px;
+  width: 141px;
+  height: 15px;
+}
+.baixar-receita3 {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 535px;
+  top: 2412px;
+  width: 158px;
+  height: 15px;
+}
+.archive8 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 1060px;
+  top: 2341px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.calendar-today9 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 262px;
+  top: 2343px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm9 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 663px;
+  top: 2343px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.r-280-00 {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 1502px;
+  top: 2345px;
+}
+._19-04-2026 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 293px;
+  top: 2012px;
+  width: 166px;
+  height: 22px;
+}
+.vit-123454 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 1092px;
+  top: 2012px;
+  width: 166px;
+  height: 22px;
+}
+._16-20 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 700px;
+  top: 2014px;
+  width: 166px;
+  height: 22px;
+}
+.archive9 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 1060px;
+  top: 2007px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.calendar-today10 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 262px;
+  top: 2009px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm10 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 663px;
+  top: 2009px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.r-200-00 {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 1502px;
+  top: 2011px;
+}
+.download8 {
+  height: auto;
+  position: absolute;
+  left: 493px;
+  top: 2405px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.archive10 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 1060px;
+  top: 1664px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.calendar-today11 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 262px;
+  top: 1666px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm11 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 663px;
+  top: 1666px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.r-150-00 {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 1502px;
+  top: 1668px;
+}
+.bounding-box {
+  background: #d9d9d9;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  left: 493px;
+  top: 1728px;
+}
+._30-05-2026 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 293px;
+  top: 1669px;
+  width: 166px;
+  height: 22px;
+}
+.vit-123455 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 1092px;
+  top: 1669px;
+  width: 166px;
+  height: 22px;
+}
+._09-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 700px;
+  top: 1671px;
+  width: 166px;
+  height: 22px;
+}
+.rectangle-354 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #09b6d5;
+  border-width: 1.5px;
+  width: 188px;
+  height: 63px;
+  position: absolute;
+  left: 268px;
+  top: 1720px;
+}
+.rectangle-355 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #ff2424;
+  border-width: 1.5px;
+  width: 186px;
+  height: 61px;
+  position: absolute;
+  left: 477px;
+  top: 1719px;
+}
+.ver-detalhes4 {
+  color: #09b6d5;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 293px;
+  top: 1738px;
+  width: 141px;
+  height: 15px;
+}
+.ver-detalhes5 {
+  color: #09b6d5;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 293px;
+  top: 2074px;
+  width: 141px;
+  height: 15px;
+}
+.cancelar {
+  color: #ff0000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 521px;
+  top: 1736px;
+  width: 158px;
+  height: 15px;
+}
+.rectangle-347 {
+  background: rgba(255, 0, 0, 0.18);
+  border-radius: 30px;
+  width: 166px;
+  height: 40px;
+  position: absolute;
+  left: 1635px;
+  top: 1889px;
+}
+.cancelada {
+  color: #ff2424;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 1673px;
+  top: 1894px;
+  width: 158px;
+  height: 15px;
+}
+.rectangle-348 {
+  background: #b5e9f2;
+  border-radius: 30px;
+  width: 166px;
+  height: 40px;
+  position: absolute;
+  left: 1637px;
+  top: 1549px;
+}
+.aguardando2 {
+  color: #09b6d5;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 1664px;
+  top: 1555px;
+  width: 158px;
+  height: 15px;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 155px;
+  top: 890px;
+  width: 48px;
+  height: 61px;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 155px;
+  top: 1225px;
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 155px;
+  top: 1901px;
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 155px;
+  top: 1563px;
+  width: 48px;
+  height: 61px;
+}
+.div5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 155px;
+  top: 2242px;
+  width: 48px;
+  height: 61px;
+}
+.check-circle10 {
+  height: auto;
+  position: absolute;
+  left: 1643px;
+  top: 877px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.check-circle11 {
+  height: auto;
+  position: absolute;
+  left: 1643px;
+  top: 1213px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm12 {
+  position: absolute;
+  inset: 0;
+  aspect-ratio: 31/363;
+}
+.bounding-box2 {
+  background: #d9d9d9;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1640px;
+  top: 1558px;
+}
+.alarm13 {
+  width: 1.11%;
+  height: 0.52%;
+  position: absolute;
+  right: 13.4%;
+  left: 85.49%;
+  bottom: 58.07%;
+  top: 41.41%;
+  overflow: visible;
+  aspect-ratio: 21.3/19.65;
+}
+.cancel2 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1647px;
+  top: 1897px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.dra-ana-costa {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 37.5px;
+  font-weight: 700;
+  position: absolute;
+  left: 270px;
+  top: 1223px;
+  width: 308px;
+  height: 28px;
+}
+.dr-carlos-silva {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 37.5px;
+  font-weight: 700;
+  position: absolute;
+  left: 270px;
+  top: 885px;
+  width: 308px;
+  height: 28px;
+}
+.dr-roberto-alves {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 37.5px;
+  font-weight: 700;
+  position: absolute;
+  left: 270px;
+  top: 1555px;
+  width: 340px;
+  height: 28px;
+}
+.dra-carla-mendes {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 37.5px;
+  font-weight: 700;
+  position: absolute;
+  left: 270px;
+  top: 1901px;
+  width: 340px;
+  height: 28px;
+}
+.dr-jo-o-santos {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 37.5px;
+  font-weight: 700;
+  position: absolute;
+  left: 270px;
+  top: 2228px;
+  width: 340px;
+  height: 28px;
+}
+.r-250-00 {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 1502px;
+  top: 993px;
+}
+.download9 {
+  height: auto;
+  position: absolute;
+  left: 493px;
+  top: 1053px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.calendar-today12 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 262px;
+  top: 991px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm14 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 663px;
+  top: 991px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.archive11 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 1060px;
+  top: 989px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.rectangle-338 {
+  background: var(
+    --mais-clara,
+    linear-gradient(90deg, rgba(13, 183, 133, 1) 0%, rgba(4, 182, 207, 1) 100%)
+  );
+  border-radius: 20px;
+  width: 107px;
+  height: 106px;
+  position: absolute;
+  left: 135px;
+  top: 2559px;
+}
+.rectangle-339 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #09b6d5;
+  border-width: 1.5px;
+  width: 188px;
+  height: 63px;
+  position: absolute;
+  left: 268px;
+  top: 2733px;
+}
+.dermatologia3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  opacity: 0.58;
+  position: absolute;
+  left: 270px;
+  top: 2599px;
+  width: 228px;
+  height: 25px;
+}
+.rectangle-353 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #09b6d5;
+  border-width: 1.5px;
+  width: 188px;
+  height: 63px;
+  position: absolute;
+  left: 268px;
+  top: 2732px;
+}
+.archive12 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 1060px;
+  top: 2677px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.calendar-today13 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 262px;
+  top: 2679px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.alarm15 {
+  opacity: 0.56;
+  height: auto;
+  position: absolute;
+  left: 663px;
+  top: 2679px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.r-160-00 {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 1502px;
+  top: 2681px;
+}
+.download10 {
+  position: absolute;
+  inset: 0;
+  aspect-ratio: 990/114;
+}
+.bounding-box3 {
+  background: #d9d9d9;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  left: 493px;
+  top: 2741px;
+}
+._15-06-2026 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 293px;
+  top: 2682px;
+  width: 166px;
+  height: 22px;
+}
+.vit-123456 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 1092px;
+  top: 2682px;
+  width: 166px;
+  height: 22px;
+}
+._15-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  opacity: 0.56;
+  position: absolute;
+  left: 700px;
+  top: 2684px;
+  width: 166px;
+  height: 22px;
+}
+.rectangle-3472 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #09b6d5;
+  border-width: 1.5px;
+  width: 188px;
+  height: 63px;
+  position: absolute;
+  left: 268px;
+  top: 2733px;
+}
+.rectangle-3482 {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #ff2424;
+  border-width: 1.5px;
+  width: 186px;
+  height: 61px;
+  position: absolute;
+  left: 477px;
+  top: 2732px;
+}
+.ver-detalhes6 {
+  color: #09b6d5;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 293px;
+  top: 2751px;
+  width: 141px;
+  height: 15px;
+}
+.cancelar2 {
+  color: #ff0000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 521px;
+  top: 2749px;
+  width: 158px;
+  height: 15px;
+}
+.div6 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 155px;
+  top: 2577px;
+}
+.alarm16 {
+  height: auto;
+  position: absolute;
+  left: 1637px;
+  top: 2568px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.dra-patricia-lima {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 37.5px;
+  font-weight: 700;
+  position: absolute;
+  left: 270px;
+  top: 2563px;
+  width: 340px;
+  height: 28px;
+}
+.grupo-inicio-2 {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-5 {
+  width: 1920px;
+  height: 121px;
+  position: absolute;
+  left: 0px;
+  top: 121px;
+  overflow: visible;
+}
+.component-30 {
+  width: 54px;
+  height: 14px;
+  position: absolute;
+  left: 733px;
+  top: 54px;
+}
+.in-cio2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.component-31 {
+  width: 93px;
+  height: 14px;
+  position: absolute;
+  left: 810px;
+  top: 54px;
+}
+.component-32 {
+  width: 123px;
+  height: 14px;
+  position: absolute;
+  left: 907px;
+  top: 54px;
+}
+.component-35 {
+  width: 123px;
+  height: 14px;
+  position: absolute;
+  left: 1040px;
+  top: 54px;
+}
+.component-36 {
+  width: 123px;
+  height: 14px;
+  position: absolute;
+  left: 1171px;
+  top: 54px;
+}
+.vitalis2 {
+  background: linear-gradient(
+    90deg,
+    rgba(12, 188, 140, 0.79) 25%,
+    rgba(8, 188, 169, 0.79) 50%,
+    rgba(3, 187, 212, 0.79) 71.15384340286255%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Rowdies-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 221px;
+  top: 36px;
+  width: 105px;
+  height: 32px;
+}
+.ellipse-31 {
+  background: linear-gradient(
+    179.31deg,
+    rgba(12, 188, 140, 1) 0%,
+    rgba(6, 187, 189, 1) 100%
+  );
+  border-radius: 50%;
+  width: 61px;
+  height: 60px;
+  position: absolute;
+  left: 1765px;
+  top: 31px;
+  box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.25);
+}
+.div7 {
+  color: #41085c;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1780px;
+  top: 44px;
+  width: 32px;
+  height: 34px;
+}
