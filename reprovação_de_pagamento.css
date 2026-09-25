@@ -1,0 +1,196 @@
+.reprova-o-de-pagamento,
+.reprova-o-de-pagamento * {
+  box-sizing: border-box;
+}
+.reprova-o-de-pagamento {
+  background: #ffffff;
+  height: 1159px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-212 {
+  background: #ffffff;
+  border-radius: 18px;
+  width: 588px;
+  height: 626px;
+  position: absolute;
+  left: 666px;
+  top: 256px;
+  box-shadow: 0px 4px 70px 6px rgba(0, 0, 0, 0.25);
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-29 {
+  background: rgba(255, 0, 0, 0.26);
+  border-radius: 50%;
+  width: 122px;
+  height: 120px;
+  position: absolute;
+  left: 899px;
+  top: 340px;
+}
+.pagamento-recusado {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 740px;
+  top: 468px;
+  width: 476px;
+  height: 50px;
+  -webkit-text-stroke: 1px #000000;
+}
+.n-o-foi-poss-vel-processar-seu-pagamento-verifique-seus-dados-e-tente-novamente {
+  color: rgba(0, 0, 0, 0.64);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 727px;
+  top: 538px;
+  width: 493px;
+  height: 79px;
+}
+.rectangle-215 {
+  background: linear-gradient(
+    90deg,
+    rgba(12, 188, 140, 1) 0%,
+    rgba(7, 187, 180, 1) 100%
+  );
+  border-radius: 21px;
+  width: 455px;
+  height: 76px;
+  position: absolute;
+  left: 740px;
+  top: 762px;
+}
+.tentar-novamente {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 839px;
+  top: 780px;
+  width: 302px;
+  height: 32px;
+  -webkit-text-stroke: 1px #ffffff;
+}
+.cancel {
+  height: auto;
+  position: absolute;
+  left: 908px;
+  top: 348px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.rectangle-5 {
+  width: 1920px;
+  height: 121px;
+  position: fixed;
+  left: 0px;
+  top: 121px;
+  transform: translate(0px, -121px);
+  overflow: visible;
+}
+.component-30 {
+  width: 54px;
+  height: 14px;
+  position: fixed;
+  left: 733px;
+  top: 54px;
+}
+.in-cio {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.component-31 {
+  width: 93px;
+  height: 14px;
+  position: fixed;
+  left: 810px;
+  top: 54px;
+}
+.component-32 {
+  width: 123px;
+  height: 14px;
+  position: fixed;
+  left: 907px;
+  top: 54px;
+}
+.component-35 {
+  width: 123px;
+  height: 14px;
+  position: fixed;
+  left: 1040px;
+  top: 54px;
+}
+.component-36 {
+  width: 123px;
+  height: 14px;
+  position: fixed;
+  left: 1171px;
+  top: 54px;
+}
+.vitalis {
+  background: linear-gradient(
+    90deg,
+    rgba(12, 188, 140, 0.79) 25%,
+    rgba(8, 188, 169, 0.79) 50%,
+    rgba(3, 187, 212, 0.79) 71.15384340286255%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Rowdies-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: fixed;
+  left: 221px;
+  top: 36px;
+  width: 105px;
+  height: 32px;
+}
+.ellipse-31 {
+  background: linear-gradient(
+    179.31deg,
+    rgba(12, 188, 140, 1) 0%,
+    rgba(6, 187, 189, 1) 100%
+  );
+  border-radius: 50%;
+  width: 61px;
+  height: 60px;
+  position: fixed;
+  left: 1765px;
+  top: 24px;
+  box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.25);
+}
+.div {
+  color: #41085c;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: fixed;
+  left: 1780px;
+  top: 37px;
+  width: 32px;
+  height: 34px;
+}
