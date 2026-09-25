@@ -1,0 +1,238 @@
+.op-es-terapia,
+.op-es-terapia * {
+  box-sizing: border-box;
+}
+.op-es-terapia {
+  background: #ffffff;
+  height: 1499px;
+  position: relative;
+  overflow: hidden;
+}
+.atendimento-psicol-gico-terapias-e-acompanhamento-emocional {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 77px;
+  top: 218px;
+  width: 410px;
+}
+.tratamentos-est-ticos-faciais-e-corporais-bem-estar-e-beleza {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 73px;
+  top: 578px;
+}
+.aconselhamento-e-terapia-para-relacionamentos {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 934px;
+}
+.neurology {
+  height: auto;
+  position: absolute;
+  left: 87px;
+  top: 89px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.spa {
+  height: auto;
+  position: absolute;
+  left: 87px;
+  top: 448px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.person-heart {
+  height: auto;
+  position: absolute;
+  left: 81px;
+  top: 806px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.rectangle-305 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 41px;
+  top: 44px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-308 {
+  background: rgba(0, 198, 105, 0.23);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 72px;
+  top: 75px;
+}
+.rectangle-312 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 41px;
+  top: 403px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.est-tica {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 77px;
+  top: 533px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.rectangle-314 {
+  background: rgba(0, 198, 105, 0.23);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 72px;
+  top: 435px;
+}
+.rectangle-322 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.5;
+  width: 489px;
+  height: 332px;
+  position: absolute;
+  left: 41px;
+  top: 766px;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-327 {
+  background: rgba(255, 222, 92, 0.56);
+  border-radius: 12px;
+  width: 71px;
+  height: 68px;
+  position: absolute;
+  left: 66px;
+  top: 794px;
+}
+.psicologia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 77px;
+  top: 182px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.terapia-de-casal {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 70px;
+  top: 887px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+._89-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 338px;
+  top: 75px;
+}
+._78-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 332px;
+  top: 435px;
+}
+._33-profissionais {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 335px;
+  top: 798px;
+}
+.component-204 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 67px;
+  top: 1005px;
+}
+.rectangle-276 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #0cbc8c;
+  border-width: 3px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.agendar-agora {
+  color: #0cbc8c;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 33.26%;
+  left: 23.65%;
+  width: 43.09%;
+  bottom: 20%;
+  top: 20%;
+  height: 60%;
+  -webkit-text-stroke: 0.5px #0cbc8c;
+}
+.component-206 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 68px;
+  top: 647px;
+}
+.component-208 {
+  width: 427px;
+  height: 60px;
+  position: absolute;
+  left: 68px;
+  top: 286px;
+}
