@@ -1,0 +1,759 @@
+.todos-os-servi-os,
+.todos-os-servi-os * {
+  box-sizing: border-box;
+}
+.todos-os-servi-os {
+  background: #ffffff;
+  height: 3327px;
+  position: relative;
+  overflow: hidden;
+}
+.todos-os-servi-os2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 768px;
+  top: 137px;
+  width: 466px;
+  height: 39px;
+  -webkit-text-stroke: 1px #000000;
+}
+.selecione-alguma-categoria-para-continuar {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 519px;
+  top: 741px;
+  width: 930px;
+  height: 44px;
+  -webkit-text-stroke: 1px #000000;
+}
+.rectangle-300 {
+  background: var(
+    --mais-clara,
+    linear-gradient(90deg, rgba(13, 183, 133, 1) 0%, rgba(4, 182, 207, 1) 100%)
+  );
+  border-radius: 12px;
+  width: 1526px;
+  height: 334px;
+  position: absolute;
+  left: 218px;
+  top: 2087px;
+}
+.rectangle-301 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 289px;
+  height: 60px;
+  position: absolute;
+  left: 832px;
+  top: 2299px;
+}
+.n-o-econtrou-o-que-procura {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 754px;
+  top: 2148px;
+}
+.entre-em-contato-conosco-e-ajudaremos-voc-a-encontrar-o-profissional-ideal-para-suas-necessidades {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 19px;
+  font-weight: 700;
+  position: absolute;
+  left: 588px;
+  top: 2207px;
+}
+.falar-com-suporte {
+  color: #10b981;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 19px;
+  font-weight: 700;
+  position: absolute;
+  left: 882px;
+  top: 2318px;
+}
+.explore-nossa-ampla-variedade-de-servi-os-de-sa-de-e-bem-estar-com-profissionais-qualificados {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 577px;
+  top: 227px;
+}
+.rectangle-263 {
+  background: #ffffff;
+  border-radius: 12px;
+  opacity: 0.45;
+  width: 80.31%;
+  height: 3.76%;
+  position: absolute;
+  right: 9.27%;
+  left: 10.42%;
+  bottom: 86.65%;
+  top: 9.59%;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.componentes-todas {
+  width: 160px;
+  height: 64px;
+  position: absolute;
+  left: 487px;
+  top: 349px;
+}
+.rectangle-285 {
+  background: #d9d9d9;
+  border-radius: 12px;
+  opacity: 0.84;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.todas {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 50%;
+  left: 11.25%;
+  width: 38.75%;
+  bottom: 26.56%;
+  top: 26.56%;
+  height: 46.88%;
+}
+._12 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 9.38%;
+  left: 67.5%;
+  width: 23.13%;
+  bottom: 26.56%;
+  top: 26.56%;
+  height: 46.88%;
+}
+.componente-terapias {
+  width: 178px;
+  height: 64px;
+  position: absolute;
+  left: 971px;
+  top: 349px;
+}
+.rectangle-281 {
+  background: #d9d9d9;
+  border-radius: 12px;
+  opacity: 0.84;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.terapias {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 39.33%;
+  left: 11.8%;
+  width: 48.88%;
+  bottom: 28.13%;
+  top: 25%;
+  height: 46.88%;
+}
+._3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 11.24%;
+  left: 71.91%;
+  width: 16.85%;
+  bottom: 28.13%;
+  top: 25%;
+  height: 46.88%;
+}
+.componentre-medicinas {
+  width: 178px;
+  height: 64px;
+  position: absolute;
+  left: 1235px;
+  top: 349px;
+}
+.rectangle-275 {
+  background: #d9d9d9;
+  border-radius: 12px;
+  opacity: 0.84;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.medicina {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 38.2%;
+  left: 10.11%;
+  width: 51.69%;
+  bottom: 26.56%;
+  top: 26.56%;
+  height: 46.88%;
+}
+._8 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 10.11%;
+  left: 72.47%;
+  width: 17.42%;
+  bottom: 26.56%;
+  top: 26.56%;
+  height: 46.88%;
+}
+.arrow-left-alt {
+  height: auto;
+  position: absolute;
+  left: 959.76px;
+  top: 600px;
+  transform: translate(-109.76px, 0px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.compoinente-bem-estarc {
+  width: 178px;
+  height: 64px;
+  position: absolute;
+  left: 707px;
+  top: 349px;
+}
+.rectangle-277 {
+  background: #d9d9d9;
+  border-radius: 12px;
+  opacity: 0.84;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.bem-estar {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 30.34%;
+  left: 8.99%;
+  width: 60.67%;
+  bottom: 26.56%;
+  top: 26.56%;
+  height: 46.88%;
+}
+._5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 6.18%;
+  left: 76.4%;
+  width: 17.42%;
+  bottom: 26.56%;
+  top: 26.56%;
+  height: 46.88%;
+}
+.frame-final {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-77 {
+  background: #948a8a;
+  width: 1924.99px;
+  height: 105.45px;
+  position: absolute;
+  left: -8px;
+  top: 3051.25px;
+}
+.rectangle-75 {
+  background: #000000;
+  width: 1928px;
+  height: 603.27px;
+  position: absolute;
+  left: -8px;
+  top: 2523px;
+}
+.rectangle-76 {
+  background: #111010;
+  width: 1928px;
+  height: 209.88px;
+  position: absolute;
+  left: -8px;
+  top: 3115.12px;
+}
+._2026-vitalis-todos-os-direitos-reservados {
+  color: #c1c1c1;
+  text-align: center;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  position: absolute;
+  left: 626.63px;
+  top: 3155.68px;
+  width: 668.78px;
+  height: 41.57px;
+}
+.vitalis {
+  background: linear-gradient(
+    90deg,
+    rgba(20, 183, 135, 1) 28.846153616905212%,
+    rgba(28, 175, 183, 1) 59.61538553237915%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 68px;
+  font-weight: 300;
+  position: absolute;
+  left: 204.88px;
+  top: 2667.99px;
+  width: 321.33px;
+  height: 69.96px;
+}
+.transformando-a-forma-como-voc-cuida-da-sua-sa-de-e-bem-estar {
+  color: #dddddd;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 23px;
+  font-weight: 300;
+  position: absolute;
+  left: 244.05px;
+  top: 2759.24px;
+  width: 382.59px;
+  height: 79.08px;
+}
+.links-teis {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 731.07px;
+  top: 2704.49px;
+  width: 184.77px;
+  height: 39.54px;
+}
+.suporte {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 1038.34px;
+  top: 2700.43px;
+  width: 184.77px;
+  height: 39.54px;
+}
+.contato {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 1416.58px;
+  top: 2703.48px;
+  width: 184.77px;
+  height: 39.54px;
+}
+.vitalis-contato-01-gmail-com {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 26px;
+  font-weight: 300;
+  opacity: 0.71;
+  position: absolute;
+  left: 1412px;
+  top: 2807.91px;
+  width: 345px;
+  height: 39.54px;
+}
+._11-9999-9999 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  opacity: 0.71;
+  position: absolute;
+  left: 1367.37px;
+  top: 2891.05px;
+  width: 280.16px;
+  height: 39.54px;
+}
+.s-o-paulo-sp-brasil {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  opacity: 0.71;
+  position: absolute;
+  left: 1393.48px;
+  top: 2972.16px;
+  width: 280.16px;
+  height: 39.54px;
+}
+.grupo-icones {
+  width: 57.5px;
+  height: 211px;
+  position: absolute;
+  left: 1340.63px;
+  top: 2788.64px;
+  overflow: visible;
+}
+.componente-para-op-ao-de-letras {
+  width: 221.92px;
+  height: 21.29px;
+  position: absolute;
+  left: 1034.32px;
+  top: 2803.85px;
+}
+.in-cio {
+  color: #b5b5b5;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 27px;
+  font-weight: 300;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.componente-para-op-ao-de-letras2 {
+  width: 75.31px;
+  height: 21.29px;
+  position: absolute;
+  left: 1108.63px;
+  top: 2862.66px;
+}
+.componente-para-op-ao-de-letras3 {
+  width: 201.84px;
+  height: 21.29px;
+  position: absolute;
+  left: 1050.39px;
+  top: 2932.62px;
+}
+.componente-para-op-ao-de-letras4 {
+  width: 356.48px;
+  height: 21.29px;
+  position: absolute;
+  left: 1030.31px;
+  top: 3002.58px;
+}
+.componente-para-op-ao-de-letras5 {
+  width: 225.94px;
+  height: 21.29px;
+  position: absolute;
+  left: 729.06px;
+  top: 3002.58px;
+}
+.componente-para-op-ao-de-letras6 {
+  width: 107.45px;
+  height: 21.29px;
+  position: absolute;
+  left: 769.22px;
+  top: 2932.62px;
+}
+.componente-para-op-ao-de-letras7 {
+  width: 189.79px;
+  height: 21.29px;
+  position: absolute;
+  left: 726.05px;
+  top: 2862.66px;
+}
+.componente-para-op-ao-de-letras8 {
+  width: 75.31px;
+  height: 21.29px;
+  position: absolute;
+  left: 787.3px;
+  top: 2803.85px;
+}
+.componente-para-op-ao-de-letras9 {
+  width: 75px;
+  height: 21.29px;
+  position: absolute;
+  left: 788px;
+  top: 2803.85px;
+}
+.frame-3 {
+  background: rgba(255, 255, 255, 0.07);
+  width: 76px;
+  height: 72px;
+  position: absolute;
+  left: 373px;
+  top: 2896px;
+  overflow: hidden;
+}
+.download-1 {
+  width: 66px;
+  height: 66px;
+  position: absolute;
+  left: 5px;
+  top: 3px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-5 {
+  background: rgba(255, 255, 255, 0.07);
+  width: 76px;
+  height: 72px;
+  position: absolute;
+  left: 264px;
+  top: 2896px;
+  overflow: hidden;
+}
+.image-8 {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  left: 6px;
+  top: 4px;
+  object-fit: cover;
+}
+.frame-6 {
+  background: rgba(255, 255, 255, 0.07);
+  width: 76px;
+  height: 72px;
+  position: absolute;
+  left: 482px;
+  top: 2896px;
+  overflow: hidden;
+}
+.objeto {
+  width: 101.32%;
+  height: 98.59%;
+  position: absolute;
+  right: 3.95%;
+  left: -5.26%;
+  bottom: 1.41%;
+  top: 0%;
+  object-fit: cover;
+  aspect-ratio: 77/70.99;
+}
+.rectangle-7 {
+  width: 1920px;
+  height: 121px;
+  position: fixed;
+  left: 0px;
+  top: 123px;
+  transform: translate(0px, -121px);
+  overflow: visible;
+}
+.component-49 {
+  width: 203px;
+  height: 51px;
+  position: fixed;
+  left: 1494px;
+  top: 40px;
+}
+.rectangle-32 {
+  border-radius: 0px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.criar-conta {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  right: 6.9%;
+  left: 13.3%;
+  width: 79.8%;
+  bottom: 35.29%;
+  top: 15.69%;
+  height: 49.02%;
+  -webkit-text-stroke: 1px #000000;
+}
+.component-50 {
+  width: 203px;
+  height: 51px;
+  position: fixed;
+  left: 1266px;
+  top: 40px;
+}
+.rectangle-322 {
+  border-radius: 0px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.entrar {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  right: 22.17%;
+  left: 22.66%;
+  width: 55.17%;
+  bottom: 37.25%;
+  top: 13.73%;
+  height: 49.02%;
+  -webkit-text-stroke: 1px #000000;
+}
+.ellipse-33 {
+  background: linear-gradient(
+    179.31deg,
+    rgba(12, 188, 140, 1) 0%,
+    rgba(6, 187, 189, 1) 100%
+  );
+  border-radius: 50%;
+  width: 61px;
+  height: 60px;
+  position: fixed;
+  left: 1169px;
+  top: 31px;
+  box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.25);
+}
+.div {
+  color: #41085c;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: fixed;
+  left: 1184px;
+  top: 46px;
+  width: 32px;
+  height: 34px;
+}
+.component-48 {
+  width: 123px;
+  height: 14px;
+  position: fixed;
+  left: 831px;
+  top: 63px;
+}
+.in-cio2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.vitalis2 {
+  background: linear-gradient(
+    90deg,
+    rgba(12, 188, 140, 0.79) 25%,
+    rgba(8, 188, 169, 0.79) 50%,
+    rgba(3, 187, 212, 0.79) 71.15384340286255%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Rowdies-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: fixed;
+  left: 225px;
+  top: 47px;
+  width: 105px;
+  height: 32px;
+}
+.component-44 {
+  width: 54px;
+  height: 14px;
+  position: fixed;
+  left: 465px;
+  top: 63px;
+}
+.component-45 {
+  width: 93px;
+  height: 14px;
+  position: fixed;
+  left: 562px;
+  top: 63px;
+}
+.component-47 {
+  width: 123px;
+  height: 14px;
+  position: fixed;
+  left: 686px;
+  top: 63px;
+}
