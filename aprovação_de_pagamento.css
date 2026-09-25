@@ -1,0 +1,245 @@
+.aprova-o-de-pagamento,
+.aprova-o-de-pagamento * {
+  box-sizing: border-box;
+}
+.aprova-o-de-pagamento {
+  background: #ffffff;
+  height: 1159px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-212 {
+  background: #ffffff;
+  border-radius: 18px;
+  width: 588px;
+  height: 748px;
+  position: absolute;
+  left: 666px;
+  top: 256px;
+  box-shadow: 0px 4px 70px 6px rgba(0, 0, 0, 0.25);
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-29 {
+  background: rgba(16, 185, 129, 0.26);
+  border-radius: 50%;
+  width: 122px;
+  height: 120px;
+  position: absolute;
+  left: 899px;
+  top: 340px;
+}
+.check-circle {
+  width: 98px;
+  height: 98px;
+  position: absolute;
+  left: 911px;
+  top: 351px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.pagamento-aprovado {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 740px;
+  top: 468px;
+  width: 476px;
+  height: 50px;
+  -webkit-text-stroke: 1px #000000;
+}
+.sua-consulta-foi-confirmada-com-sucesso-voc-receber-um-email-de-confirma-o-em-breve {
+  color: rgba(0, 0, 0, 0.64);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 740px;
+  top: 537px;
+  width: 462px;
+  height: 157px;
+}
+.rectangle-214 {
+  background: #d9d9d9;
+  border-radius: 13px;
+  opacity: 0.55;
+  width: 455px;
+  height: 140px;
+  position: absolute;
+  left: 732px;
+  top: 752px;
+}
+.data {
+  color: rgba(0, 0, 0, 0.72);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 763px;
+  top: 833px;
+  width: 125px;
+  height: 22px;
+  -webkit-text-stroke: 0.5px rgba(0, 0, 0, 0.39);
+}
+.valor-pago {
+  color: rgba(0, 0, 0, 0.72);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 763px;
+  top: 781px;
+  width: 125px;
+  height: 22px;
+  -webkit-text-stroke: 0.5px rgba(0, 0, 0, 0.39);
+}
+.r-260-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 1009px;
+  top: 783px;
+  width: 125px;
+  height: 22px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+._13-05-2026 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 1009px;
+  top: 833px;
+  width: 125px;
+  height: 22px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+.voltar {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 901px;
+  top: 938px;
+  width: 132px;
+  height: 46px;
+}
+.rectangle-5 {
+  width: 1920px;
+  height: 121px;
+  position: fixed;
+  left: 0px;
+  top: 121px;
+  transform: translate(0px, -121px);
+  overflow: visible;
+}
+.component-30 {
+  width: 54px;
+  height: 14px;
+  position: fixed;
+  left: 733px;
+  top: 54px;
+}
+.in-cio {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.component-31 {
+  width: 93px;
+  height: 14px;
+  position: fixed;
+  left: 810px;
+  top: 54px;
+}
+.component-32 {
+  width: 123px;
+  height: 14px;
+  position: fixed;
+  left: 907px;
+  top: 54px;
+}
+.component-35 {
+  width: 123px;
+  height: 14px;
+  position: fixed;
+  left: 1040px;
+  top: 54px;
+}
+.component-36 {
+  width: 123px;
+  height: 14px;
+  position: fixed;
+  left: 1171px;
+  top: 54px;
+}
+.vitalis {
+  background: linear-gradient(
+    90deg,
+    rgba(12, 188, 140, 0.79) 25%,
+    rgba(8, 188, 169, 0.79) 50%,
+    rgba(3, 187, 212, 0.79) 71.15384340286255%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Rowdies-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: fixed;
+  left: 221px;
+  top: 36px;
+  width: 105px;
+  height: 32px;
+}
+.ellipse-31 {
+  background: linear-gradient(
+    179.31deg,
+    rgba(12, 188, 140, 1) 0%,
+    rgba(6, 187, 189, 1) 100%
+  );
+  border-radius: 50%;
+  width: 61px;
+  height: 60px;
+  position: fixed;
+  left: 1765px;
+  top: 24px;
+  box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.25);
+}
+.div {
+  color: #41085c;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: fixed;
+  left: 1780px;
+  top: 37px;
+  width: 32px;
+  height: 34px;
+}
