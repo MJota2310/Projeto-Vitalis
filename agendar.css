@@ -1,0 +1,1164 @@
+.frame-agendar,
+.frame-agendar * {
+  box-sizing: border-box;
+}
+.frame-agendar {
+  background: #ffffff;
+  height: 2105px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-136 {
+  background: rgba(217, 217, 217, 0.36);
+  border-radius: 16px;
+  width: 1020px;
+  height: 239px;
+  position: absolute;
+  left: 216px;
+  top: 277px;
+}
+.busca-profissional {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 248px;
+  top: 309px;
+  width: 221px;
+  height: 22px;
+}
+.component-90 {
+  width: 457px;
+  height: 63px;
+  position: absolute;
+  left: 247px;
+  top: 363px;
+}
+.rectangle-139 {
+  background: rgba(217, 217, 217, 0.44);
+  border-radius: 9px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.busca-por-especialidade {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 297px;
+  top: 382px;
+  width: 270px;
+  height: 42px;
+}
+.component-91 {
+  width: 200px;
+  height: 42px;
+  position: absolute;
+  left: 248px;
+  top: 447px;
+}
+.cardiologia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 267px;
+  top: 456px;
+}
+.component-912 {
+  width: 128px;
+  height: 42px;
+  position: absolute;
+  left: 469px;
+  top: 448px;
+}
+.psicologia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 484px;
+  top: 456px;
+}
+.component-92 {
+  width: 128px;
+  height: 42px;
+  position: absolute;
+  left: 607px;
+  top: 447px;
+}
+.fisioterapia {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 626px;
+  top: 456px;
+}
+.component-93 {
+  width: 179px;
+  height: 42px;
+  position: absolute;
+  left: 773px;
+  top: 448px;
+}
+.atividades-f-sicas {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 783px;
+  top: 456px;
+  width: 172px;
+  height: 25px;
+}
+.component-94 {
+  width: 128px;
+  height: 42px;
+  position: absolute;
+  left: 971px;
+  top: 448px;
+}
+.est-tica {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 991px;
+  top: 456px;
+}
+.distance {
+  height: auto;
+  position: absolute;
+  left: 737.5px;
+  top: 377px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.agendar-servi-o {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 43px;
+  font-weight: 400;
+  position: absolute;
+  left: 226px;
+  top: 145px;
+  width: 381px;
+  height: 58px;
+  -webkit-text-stroke: 1px #000000;
+}
+.encontre-o-profissional-ideal-e-agende-seu-atendimento {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 225px;
+  top: 215px;
+  width: 587px;
+  height: 25px;
+}
+.search {
+  height: auto;
+  position: absolute;
+  left: 258px;
+  top: 378px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.rectangle-140 {
+  background: rgba(217, 217, 217, 0.37);
+  border-radius: 27px;
+  width: 486px;
+  height: 326px;
+  position: absolute;
+  left: 1348px;
+  top: 287px;
+}
+.calendar-today {
+  height: auto;
+  position: absolute;
+  left: 1572px;
+  top: 425px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.confirmar-agendamento {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1385px;
+  top: 316px;
+  -webkit-text-stroke: 0.30000001192092896px #000000;
+}
+.selecione-um-profissional-para-continuar {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18.700000762939453px;
+  font-weight: 400;
+  position: absolute;
+  left: 1415px;
+  top: 511px;
+  width: 372px;
+  height: 16px;
+}
+.por-consulta {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 1087px;
+  top: 849px;
+}
+._203-avalia-es {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 408px;
+  top: 891px;
+}
+.dispon-vel {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 358px;
+  top: 934px;
+}
+.dispon-vel2 {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 358px;
+  top: 1157px;
+}
+.dra-ana-marques {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 366px;
+  top: 813px;
+}
+.s-o-paulo-sp {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 577px;
+  top: 891px;
+}
+.por-consulta2 {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 1091px;
+  top: 1069px;
+}
+.r-150 {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 1090px;
+  top: 1033px;
+  -webkit-text-stroke: 1px #36ce8c;
+}
+.s-o-paulo-sp2 {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 586px;
+  top: 1111px;
+}
+._98-avalia-es {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 426px;
+  top: 1111px;
+}
+.fisioterapia2 {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 371px;
+  top: 1069px;
+}
+.dr-douglas-alves {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 370px;
+  top: 1033px;
+}
+.rectangle-155 {
+  background: linear-gradient(
+    180deg,
+    rgba(13, 185, 136, 1) 0%,
+    rgba(4, 182, 207, 1) 100%
+  );
+  border-radius: 16px;
+  width: 98px;
+  height: 98px;
+  position: absolute;
+  left: 244px;
+  top: 814px;
+  aspect-ratio: 1;
+}
+.rectangle-156 {
+  background: linear-gradient(
+    180deg,
+    rgba(13, 185, 135, 1) 0%,
+    rgba(4, 182, 206, 1) 100%
+  );
+  border-radius: 16px;
+  width: 98px;
+  height: 98px;
+  position: absolute;
+  left: 248px;
+  top: 1034px;
+  aspect-ratio: 1;
+}
+.psicologia2 {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 366px;
+  top: 849px;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 261px;
+  top: 827px;
+  width: 64px;
+  height: 69px;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 265px;
+  top: 1051px;
+}
+.r-180 {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 1086px;
+  top: 810px;
+  -webkit-text-stroke: 1px #36ce8c;
+}
+._156-avalia-es {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 421px;
+  top: 665px;
+}
+.s-o-paulo-sp3 {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 589px;
+  top: 665px;
+}
+.cardiologia2 {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 365px;
+  top: 625px;
+}
+.dr-carlos-silva {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 365px;
+  top: 589px;
+}
+.rectangle-154 {
+  background: linear-gradient(
+    180deg,
+    rgba(13, 185, 137, 1) 0%,
+    rgba(4, 183, 204, 1) 100%
+  );
+  border-radius: 16px;
+  width: 98px;
+  height: 98px;
+  position: absolute;
+  left: 245px;
+  top: 588px;
+  aspect-ratio: 1;
+}
+.dispon-vel3 {
+  color: #545454;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 362px;
+  top: 710px;
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 261px;
+  top: 603px;
+  width: 96px;
+  height: 104px;
+}
+.componente-para-op-ao-de-letras {
+  width: 143px;
+  height: 14px;
+  position: absolute;
+  left: 770px;
+  top: 388px;
+}
+.in-cio {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.r-250 {
+  color: #36ce8c;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 1090px;
+  top: 586px;
+  -webkit-text-stroke: 1px #36ce8c;
+}
+.por-consulta3 {
+  color: #707070;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 1091px;
+  top: 625px;
+}
+.rectangle-170 {
+  background: rgba(175, 210, 199, 0.51);
+  border-radius: 7px;
+  width: 45px;
+  height: 26px;
+  position: absolute;
+  left: 579px;
+  top: 937px;
+}
+.rectangle-175 {
+  background: rgba(175, 210, 199, 0.51);
+  border-radius: 7px;
+  width: 45px;
+  height: 26px;
+  position: absolute;
+  left: 579px;
+  top: 1160px;
+}
+.rectangle-174 {
+  background: rgba(175, 210, 199, 0.51);
+  border-radius: 7px;
+  width: 45px;
+  height: 26px;
+  position: absolute;
+  left: 516px;
+  top: 937px;
+}
+.rectangle-176 {
+  background: rgba(175, 210, 199, 0.51);
+  border-radius: 7px;
+  width: 45px;
+  height: 26px;
+  position: absolute;
+  left: 516px;
+  top: 1160px;
+}
+.rectangle-172 {
+  background: rgba(175, 210, 199, 0.51);
+  border-radius: 7px;
+  width: 45px;
+  height: 26px;
+  position: absolute;
+  left: 457px;
+  top: 937px;
+}
+.rectangle-177 {
+  background: rgba(175, 210, 199, 0.51);
+  border-radius: 7px;
+  width: 45px;
+  height: 26px;
+  position: absolute;
+  left: 457px;
+  top: 1160px;
+}
+.seg {
+  color: #10b981;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 464px;
+  top: 934px;
+  width: 44px;
+  height: 19px;
+}
+.seg2 {
+  color: #10b981;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 464px;
+  top: 1157px;
+  width: 44px;
+  height: 19px;
+}
+.qua {
+  color: #10b981;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 522px;
+  top: 935px;
+  width: 44px;
+  height: 19px;
+}
+.qua2 {
+  color: #10b981;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 522px;
+  top: 1160px;
+  width: 44px;
+  height: 19px;
+}
+.sex {
+  color: #10b981;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 586px;
+  top: 936px;
+  width: 44px;
+  height: 19px;
+}
+.sex2 {
+  color: #10b981;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 586px;
+  top: 1160px;
+  width: 44px;
+  height: 19px;
+}
+.rectangle-1702 {
+  background: rgba(175, 210, 199, 0.51);
+  border-radius: 7px;
+  width: 45px;
+  height: 26px;
+  position: absolute;
+  left: 579px;
+  top: 708px;
+}
+.rectangle-171 {
+  background: rgba(175, 210, 199, 0.51);
+  border-radius: 7px;
+  width: 45px;
+  height: 26px;
+  position: absolute;
+  left: 516px;
+  top: 708px;
+}
+.rectangle-1722 {
+  background: rgba(175, 210, 199, 0.51);
+  border-radius: 7px;
+  width: 45px;
+  height: 26px;
+  position: absolute;
+  left: 457px;
+  top: 708px;
+}
+.seg3 {
+  color: #10b981;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 464px;
+  top: 705px;
+  width: 44px;
+  height: 19px;
+}
+.qua3 {
+  color: #10b981;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 522px;
+  top: 708px;
+  width: 44px;
+  height: 19px;
+}
+.sex3 {
+  color: #10b981;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 586px;
+  top: 708px;
+  width: 44px;
+  height: 19px;
+}
+.component-101 {
+  border-radius: 19px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.4);
+  border-width: 2px;
+  width: 1020px;
+  height: 214px;
+  position: absolute;
+  left: 216px;
+  top: 784px;
+}
+.rectangle-148 {
+  background: rgba(217, 217, 217, 0.2);
+  border-radius: 19px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.component-100 {
+  border-radius: 19px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.4);
+  border-width: 2px;
+  width: 1020px;
+  height: 214px;
+  position: absolute;
+  left: 216px;
+  top: 1016px;
+}
+.component-98 {
+  border-radius: 19px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.4);
+  border-width: 2px;
+  width: 1020px;
+  height: 214px;
+  position: absolute;
+  left: 216px;
+  top: 552px;
+}
+.frame-final {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-77 {
+  background: #948a8a;
+  width: 1924.99px;
+  height: 105.45px;
+  position: absolute;
+  left: 1px;
+  top: 1831.25px;
+}
+.rectangle-75 {
+  background: #000000;
+  width: 1928px;
+  height: 603.27px;
+  position: absolute;
+  left: 1px;
+  top: 1303px;
+}
+.rectangle-76 {
+  background: #111010;
+  width: 1928px;
+  height: 209.88px;
+  position: absolute;
+  left: 1px;
+  top: 1895.12px;
+}
+._2026-vitalis-todos-os-direitos-reservados {
+  color: #c1c1c1;
+  text-align: center;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  position: absolute;
+  left: 635.63px;
+  top: 1935.68px;
+  width: 668.78px;
+  height: 41.57px;
+}
+.vitalis {
+  background: linear-gradient(
+    90deg,
+    rgba(20, 183, 135, 1) 28.846153616905212%,
+    rgba(28, 175, 183, 1) 59.61538553237915%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 68px;
+  font-weight: 300;
+  position: absolute;
+  left: 213.88px;
+  top: 1447.99px;
+  width: 321.33px;
+  height: 69.96px;
+}
+.transformando-a-forma-como-voc-cuida-da-sua-sa-de-e-bem-estar {
+  color: #dddddd;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 23px;
+  font-weight: 300;
+  position: absolute;
+  left: 253.05px;
+  top: 1539.24px;
+  width: 382.59px;
+  height: 79.08px;
+}
+.links-teis {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 740.07px;
+  top: 1484.49px;
+  width: 184.77px;
+  height: 39.54px;
+}
+.suporte {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 1047.34px;
+  top: 1480.43px;
+  width: 184.77px;
+  height: 39.54px;
+}
+.contato {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 1425.58px;
+  top: 1483.48px;
+  width: 184.77px;
+  height: 39.54px;
+}
+.vitalis-contato-01-gmail-com {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 26px;
+  font-weight: 300;
+  opacity: 0.71;
+  position: absolute;
+  left: 1421px;
+  top: 1587.91px;
+  width: 345px;
+  height: 39.54px;
+}
+._11-9999-9999 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  opacity: 0.71;
+  position: absolute;
+  left: 1376.37px;
+  top: 1671.05px;
+  width: 280.16px;
+  height: 39.54px;
+}
+.s-o-paulo-sp-brasil {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  opacity: 0.71;
+  position: absolute;
+  left: 1402.48px;
+  top: 1752.16px;
+  width: 280.16px;
+  height: 39.54px;
+}
+.grupo-icones {
+  width: 57.51px;
+  height: 211px;
+  position: absolute;
+  left: 1349.63px;
+  top: 1568.64px;
+  overflow: visible;
+}
+.componente-para-op-ao-de-letras2 {
+  width: 221.92px;
+  height: 21.29px;
+  position: absolute;
+  left: 1043.32px;
+  top: 1583.85px;
+}
+.in-cio2 {
+  color: #b5b5b5;
+  text-align: left;
+  font-family: "Rowdies-Light", sans-serif;
+  font-size: 27px;
+  font-weight: 300;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.componente-para-op-ao-de-letras3 {
+  width: 75.31px;
+  height: 21.29px;
+  position: absolute;
+  left: 1117.63px;
+  top: 1642.66px;
+}
+.componente-para-op-ao-de-letras4 {
+  width: 201.84px;
+  height: 21.29px;
+  position: absolute;
+  left: 1059.39px;
+  top: 1712.62px;
+}
+.componente-para-op-ao-de-letras5 {
+  width: 356.48px;
+  height: 21.29px;
+  position: absolute;
+  left: 1039.31px;
+  top: 1782.58px;
+}
+.componente-para-op-ao-de-letras6 {
+  width: 225.94px;
+  height: 21.29px;
+  position: absolute;
+  left: 738.06px;
+  top: 1782.58px;
+}
+.componente-para-op-ao-de-letras7 {
+  width: 107.45px;
+  height: 21.29px;
+  position: absolute;
+  left: 778.22px;
+  top: 1712.62px;
+}
+.componente-para-op-ao-de-letras8 {
+  width: 189.79px;
+  height: 21.29px;
+  position: absolute;
+  left: 735.05px;
+  top: 1642.66px;
+}
+.componente-para-op-ao-de-letras9 {
+  width: 75.31px;
+  height: 21.29px;
+  position: absolute;
+  left: 796.3px;
+  top: 1583.85px;
+}
+.componente-para-op-ao-de-letras10 {
+  width: 75px;
+  height: 21.29px;
+  position: absolute;
+  left: 797px;
+  top: 1583.85px;
+}
+.frame-3 {
+  background: rgba(255, 255, 255, 0.07);
+  width: 76px;
+  height: 72px;
+  position: absolute;
+  left: 382px;
+  top: 1676px;
+  overflow: hidden;
+}
+.download-1 {
+  width: 66px;
+  height: 66px;
+  position: absolute;
+  left: 5px;
+  top: 3px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-5 {
+  background: rgba(255, 255, 255, 0.07);
+  width: 76px;
+  height: 72px;
+  position: absolute;
+  left: 273px;
+  top: 1676px;
+  overflow: hidden;
+}
+.image-8 {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  left: 6px;
+  top: 4px;
+  object-fit: cover;
+}
+.frame-6 {
+  background: rgba(255, 255, 255, 0.07);
+  width: 76px;
+  height: 72px;
+  position: absolute;
+  left: 491px;
+  top: 1676px;
+  overflow: hidden;
+}
+.objeto {
+  width: 101.32%;
+  height: 98.59%;
+  position: absolute;
+  right: 3.95%;
+  left: -5.26%;
+  bottom: 1.41%;
+  top: 0%;
+  object-fit: cover;
+  aspect-ratio: 77/70.99;
+}
+.rectangle-8 {
+  width: 1920px;
+  height: 121px;
+  position: absolute;
+  left: -3px;
+  top: 113px;
+  transform: translate(3px, -113px);
+  overflow: visible;
+}
+.component-51 {
+  width: 54px;
+  height: 14px;
+  position: absolute;
+  left: 730px;
+  top: 46px;
+}
+.in-cio3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.component-52 {
+  width: 93px;
+  height: 14px;
+  position: absolute;
+  left: 807px;
+  top: 46px;
+}
+.component-53 {
+  width: 123px;
+  height: 14px;
+  position: absolute;
+  left: 904px;
+  top: 46px;
+}
+.component-54 {
+  width: 123px;
+  height: 14px;
+  position: absolute;
+  left: 1037px;
+  top: 46px;
+}
+.component-55 {
+  width: 123px;
+  height: 14px;
+  position: absolute;
+  left: 1168px;
+  top: 46px;
+}
+.vitalis2 {
+  background: linear-gradient(
+    90deg,
+    rgba(12, 188, 140, 0.79) 25%,
+    rgba(8, 188, 169, 0.79) 50%,
+    rgba(3, 187, 212, 0.79) 71.15384340286255%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Rowdies-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 218px;
+  top: 28px;
+  width: 105px;
+  height: 32px;
+}
+.ellipse-34 {
+  background: linear-gradient(
+    179.31deg,
+    rgba(12, 188, 140, 1) 0%,
+    rgba(6, 187, 189, 1) 100%
+  );
+  border-radius: 50%;
+  width: 61px;
+  height: 60px;
+  position: absolute;
+  left: 1762px;
+  top: 16px;
+  box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.25);
+}
+.div4 {
+  color: #41085c;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1777px;
+  top: 29px;
+  width: 32px;
+  height: 34px;
+}
+ 
+ 
